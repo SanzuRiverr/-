@@ -1,10 +1,8 @@
 # Balatro Joker Tier List
 
 Balatro 조커 150장을 S·A·B·C·D·F 티어로 정리하는 비공식 팬 제작 웹 앱입니다.
-한국어 조커 정보, 검색·필터, 드래그 재배치, 티어별 코멘트와 JSON 저장 파일을 지원합니다.
 
 ## 바로 실행
-
 ### 웹에서 사용
 
 저장소 관리자가 GitHub Pages를 활성화했다면 저장소의 **About → Website** 링크를 열면 됩니다.
