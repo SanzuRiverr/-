@@ -1,0 +1,15 @@
+# Local exports and profile data must not be committed accidentally.
+/*세이브*.json
+/balatro-tier-list-*.json
+/profile*.json
+/private/
+/dist/
+/build/
+/github-upload*/
+/*.zip
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.env
+.env.*

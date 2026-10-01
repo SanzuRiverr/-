@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Balatro Joker Tier List</title>
+    <link rel="stylesheet" href="styles.css?v=20260916-usage2" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div class="brand">
+          <span class="brand-mark" aria-hidden="true">B</span>
+          <div>
+            <h1>Balatro Joker Tier List</h1>
+            <p id="sourceMeta">조커 메타데이터 불러오는 중</p>
+          </div>
+        </div>
+
+        <div class="toolbar" aria-label="티어 리스트 도구">
+          <label class="search-field">
+            <span>검색</span>
+            <input id="searchInput" type="search" placeholder="이름, 효과, 특성" autocomplete="off" />
+          </label>
+
+          <label class="select-field">
+            <span>특성</span>
+            <select id="traitFilter">
+              <option value="all">전체</option>
+            </select>
+          </label>
+
+          <label class="select-field">
+            <span>정렬</span>
+            <select id="sortMode">
+              <option value="index">번호순</option>
+              <option value="manual">사용자 지정</option>
+              <option value="name">이름순</option>
+              <option value="rarity">희귀도순</option>
+              <option value="cost">가격순</option>
+            </select>
+          </label>
+
+          <div class="button-group" role="group" aria-label="파일 작업">
+            <button id="compareButton" class="compare-button" type="button" aria-pressed="false" title="조커 사용 횟수 표시" disabled>데이터 대조하기</button>
+            <button id="exportButton" class="icon-button" type="button" title="내보내기" aria-label="내보내기">
+              <span aria-hidden="true">⇩</span>
+            </button>
+            <button id="importButton" class="icon-button" type="button" title="가져오기" aria-label="가져오기">
+              <span aria-hidden="true">⇧</span>
+            </button>
+            <button id="resetButton" class="icon-button danger" type="button" title="초기화" aria-label="초기화">
+              <span aria-hidden="true">↺</span>
+            </button>
+          </div>
+          <input id="importFile" type="file" accept="application/json,.json" hidden />
+        </div>
+      </header>
+
+      <main class="workspace">
+        <section class="board-section" aria-label="티어 보드">
+          <div class="filters" id="rarityFilters" aria-label="희귀도 필터">
+            <button class="filter-chip active" type="button" data-rarity="all">전체</button>
+          </div>
+
+          <div id="tierBoard" class="tier-board" aria-live="polite"></div>
+        </section>
+
+        <aside class="side-panel" aria-label="조커 목록과 상세 정보">
+          <section class="selected-panel" id="selectedPanel">
+            <div class="empty-detail">
+              <strong>조커 상세 정보</strong>
+              <span>불러오는 중</span>
+            </div>
+          </section>
+
+          <section class="pool-panel">
+            <div id="poolGrid" class="pool-grid drop-zone" data-tier="pool" aria-label="미분류 조커"></div>
+          </section>
+        </aside>
+      </main>
+    </div>
+
+    <template id="cardTemplate">
+      <button class="joker-card" type="button" draggable="true">
+        <span class="card-frame">
+          <img alt="" loading="lazy" />
+        </span>
+        <span class="card-name"></span>
+      </button>
+    </template>
+
+    <script src="data/joker-usage.js?v=20260916-usage" defer></script>
+    <script src="app.js?v=20260916-usage" defer></script>
+  </body>
+</html>

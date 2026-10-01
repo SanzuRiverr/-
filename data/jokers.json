@@ -1,0 +1,3616 @@
+{
+  "source": {
+    "name": "나무위키 Balatro/조커 카드",
+    "url": "https://namu.wiki/w/Balatro/%EC%A1%B0%EC%BB%A4%20%EC%B9%B4%EB%93%9C",
+    "fandom_name": "Balatro Wiki Jokers",
+    "fandom_url": "https://balatrogame.fandom.com/wiki/Jokers",
+    "collected_at": "2026-09-16T03:09:29.824028+00:00"
+  },
+  "fandom_trait_supplement": {
+    "updated": 90,
+    "unmatched": [],
+    "fandom_count": 150
+  },
+  "count": 150,
+  "cards": [
+    {
+      "index": 1,
+      "id": "joker",
+      "rarity": "일반",
+      "section": "6.1.1",
+      "name": "조커",
+      "name_ko": "조커",
+      "name_ko_variants": [
+        "조커"
+      ],
+      "name_en": "Joker",
+      "cost": "$2",
+      "effect": "+4 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/D8jOX580JUXKVayeh8Vcw3MmiBqfcoWm0GsE-c5ETSnyF0tQqtdkyJO_9tEJyahfbWxSZNFaDF3so3M8pBCSQA.png",
+      "image_path": "assets/jokers/001-joker.png",
+      "source_table_index": 7
+    },
+    {
+      "index": 2,
+      "id": "greedy-joker",
+      "rarity": "일반",
+      "section": "6.1.2",
+      "name": "인색한 조커/탐욕스러운 조커",
+      "name_ko": "인색한 조커",
+      "name_ko_variants": [
+        "인색한 조커",
+        "탐욕스러운 조커"
+      ],
+      "name_en": "Greedy Joker",
+      "cost": "$5",
+      "effect": "다이아몬드 문양 카드를 플레이해 득점할 때마다 +3 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/ca646dYx8ee_Xa4S2eGJ9ytDyFfcNvgVWnzO48iUq9h8xeo1Wn8c0qM2-U4pP77fshMLni_H24qB3PiZUPK7xg.png",
+      "image_path": "assets/jokers/002-greedy-joker.png",
+      "source_table_index": 8
+    },
+    {
+      "index": 3,
+      "id": "lusty-joker",
+      "rarity": "일반",
+      "section": "6.1.3",
+      "name": "음욕의 조커/건장한 조커",
+      "name_ko": "음욕의 조커",
+      "name_ko_variants": [
+        "음욕의 조커",
+        "건장한 조커"
+      ],
+      "name_en": "Lusty Joker",
+      "cost": "$5",
+      "effect": "하트 문양 카드를 플레이해 득점할 때마다 +3 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/1Z7AW_OAfrAfP8G0fe3HvarCiZAw6zfV5EEIbIgSoR-e-1cizx1h3fksEoXQlN-9qYE7w1z5GDaYqb9l3LaARA.png",
+      "image_path": "assets/jokers/003-lusty-joker.png",
+      "source_table_index": 9
+    },
+    {
+      "index": 4,
+      "id": "wrathful-joker",
+      "rarity": "일반",
+      "section": "6.1.4",
+      "name": "분노하는 조커/격노한 조커",
+      "name_ko": "분노하는 조커",
+      "name_ko_variants": [
+        "분노하는 조커",
+        "격노한 조커"
+      ],
+      "name_en": "Wrathful Joker",
+      "cost": "$5",
+      "effect": "스페이드 문양 카드를 플레이해 득점할 때마다 +3 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/FfRJ2uvwJAXdXczH9zoZz36e_tzdi7qpdnu_ZYjHO9MzCXeHkn5_nqsANaw3iPy8-A9sENuu7DX3m8f8IJ_EdQ.png",
+      "image_path": "assets/jokers/004-wrathful-joker.png",
+      "source_table_index": 10
+    },
+    {
+      "index": 5,
+      "id": "gluttonous-joker",
+      "rarity": "일반",
+      "section": "6.1.5",
+      "name": "탐욕스러운 조커/게걸스러운 조커",
+      "name_ko": "탐욕스러운 조커",
+      "name_ko_variants": [
+        "탐욕스러운 조커",
+        "게걸스러운 조커"
+      ],
+      "name_en": "Gluttonous Joker",
+      "cost": "$5",
+      "effect": "클럽 문양 카드를 플레이해 득점할 때마다 +3 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/Rf6GinPzmFie49Xv1SqRYONAmUu3hlQ2gpPzu8cYPpamh5fXupeI7n-2uVghUqxyAFIlsv5EjY-7pIKZAOo_4g.png",
+      "image_path": "assets/jokers/005-gluttonous-joker.png",
+      "source_table_index": 11
+    },
+    {
+      "index": 6,
+      "id": "jolly-joker",
+      "rarity": "일반",
+      "section": "6.1.6",
+      "name": "쾌활한 조커",
+      "name_ko": "쾌활한 조커",
+      "name_ko_variants": [
+        "쾌활한 조커"
+      ],
+      "name_en": "Jolly Joker",
+      "cost": "$3",
+      "effect": "플레이한 핸드에 페어 포함 시 +8 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/aCgAzy0C4wO8OAaBUGIQYppKQCqbsOJQPMajOz_qk_ERcDRjB7NURB506M2luUoApD1eMRr8_iMlW0KddZ2UcA.png",
+      "image_path": "assets/jokers/006-jolly-joker.png",
+      "source_table_index": 12
+    },
+    {
+      "index": 7,
+      "id": "zany-joker",
+      "rarity": "일반",
+      "section": "6.1.7",
+      "name": "엉뚱한 조커",
+      "name_ko": "엉뚱한 조커",
+      "name_ko_variants": [
+        "엉뚱한 조커"
+      ],
+      "name_en": "Zany Joker",
+      "cost": "$4",
+      "effect": "플레이한 핸드에 트리플 포함 시 +12 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/cXillfod31eNfBDj-ZqZlEcrFkMu4L4bG4_vMSvMR6L49JtNLrobwoDtqHsCwyI4O8heEm9y8bPIZ3ZxLcoWew.png",
+      "image_path": "assets/jokers/007-zany-joker.png",
+      "source_table_index": 13
+    },
+    {
+      "index": 8,
+      "id": "mad-joker",
+      "rarity": "일반",
+      "section": "6.1.8",
+      "name": "미친 조커",
+      "name_ko": "미친 조커",
+      "name_ko_variants": [
+        "미친 조커"
+      ],
+      "name_en": "Mad Joker",
+      "cost": "$4",
+      "effect": "플레이한 핸드에 투페어 포함 시 +10 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/aSv2TvqsjCdXJvXqbpA4tlK2YohBV4BhgWc-i8zP9VZTz-5CyYKGYpWs3qqM-h0P0wHF49Hrpts23bi4KGeylQ.png",
+      "image_path": "assets/jokers/008-mad-joker.png",
+      "source_table_index": 14
+    },
+    {
+      "index": 9,
+      "id": "crazy-joker",
+      "rarity": "일반",
+      "section": "6.1.9",
+      "name": "정신 나간 조커",
+      "name_ko": "정신 나간 조커",
+      "name_ko_variants": [
+        "정신 나간 조커"
+      ],
+      "name_en": "Crazy Joker",
+      "cost": "$4",
+      "effect": "플레이한 핸드에 스트레이트 포함 시 +12 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/ctlRYv36PBIfk6gRXyCbI5KF1fXegHOqlPupCiPkvFev1rdUkeftFQ6mLQgE_v65BSxMCxbAa6Z4Gvm84t4uNw.png",
+      "image_path": "assets/jokers/009-crazy-joker.png",
+      "source_table_index": 15
+    },
+    {
+      "index": 10,
+      "id": "droll-joker",
+      "rarity": "일반",
+      "section": "6.1.10",
+      "name": "괴짜 조커",
+      "name_ko": "괴짜 조커",
+      "name_ko_variants": [
+        "괴짜 조커"
+      ],
+      "name_en": "Droll Joker",
+      "cost": "$4",
+      "effect": "플레이한 핸드에 플러시 포함 시 +10 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/AmDcBFtOn4MVmKH3JM72k2ZQNV5euzMRPeN75Ecrk1SEb1uV7ZxreeCUDfmAbmhb7ji5xbwn_KakOWV0ocTrCQ.png",
+      "image_path": "assets/jokers/010-droll-joker.png",
+      "source_table_index": 16
+    },
+    {
+      "index": 11,
+      "id": "sly-joker",
+      "rarity": "일반",
+      "section": "6.1.11",
+      "name": "교활한 조커",
+      "name_ko": "교활한 조커",
+      "name_ko_variants": [
+        "교활한 조커"
+      ],
+      "name_en": "Sly Joker",
+      "cost": "$3",
+      "effect": "플레이한 핸드에 페어 포함 시 칩 +50 개를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "칩 증가"
+      ],
+      "trait_text": "칩 증가",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/1yDySHcNzCeI2ZZi-Zw6vWzfScPuAheR0OzCpdEsen120dy2idv9tSQWJmVGHwwEZpdkELCYgoxQ_TL7sLC5NA.png",
+      "image_path": "assets/jokers/011-sly-joker.png",
+      "source_table_index": 17
+    },
+    {
+      "index": 12,
+      "id": "wily-joker",
+      "rarity": "일반",
+      "section": "6.1.12",
+      "name": "악랄한 조커",
+      "name_ko": "악랄한 조커",
+      "name_ko_variants": [
+        "악랄한 조커"
+      ],
+      "name_en": "Wily Joker",
+      "cost": "$4",
+      "effect": "플레이한 핸드에 트리플 포함 시 칩 +100 개를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "칩 증가"
+      ],
+      "trait_text": "칩 증가",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/CEhMQowe7qtCFGsUEBhohHwM4yQDbeERGVX4EMx-s8pZdMxHSUbk_FUgNFLZisxwQIQHNHAIf8GHkO3UeoFwCA.png",
+      "image_path": "assets/jokers/012-wily-joker.png",
+      "source_table_index": 18
+    },
+    {
+      "index": 13,
+      "id": "clever-joker",
+      "rarity": "일반",
+      "section": "6.1.13",
+      "name": "영리한 조커",
+      "name_ko": "영리한 조커",
+      "name_ko_variants": [
+        "영리한 조커"
+      ],
+      "name_en": "Clever Joker",
+      "cost": "$4",
+      "effect": "플레이한 핸드에 투페어 포함 시 칩 +80 개를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "칩 증가"
+      ],
+      "trait_text": "칩 증가",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/uxClFzUXsu14hW4BaQ3ntDpN5YcrcXKiRYPM5Kho99BGDJr4d9GIJfYKc6LswYMMALgc-CvppGEd6YatKqN5gg.png",
+      "image_path": "assets/jokers/013-clever-joker.png",
+      "source_table_index": 19
+    },
+    {
+      "index": 14,
+      "id": "devious-joker",
+      "rarity": "일반",
+      "section": "6.1.14",
+      "name": "기만적인 조커",
+      "name_ko": "기만적인 조커",
+      "name_ko_variants": [
+        "기만적인 조커"
+      ],
+      "name_en": "Devious Joker",
+      "cost": "$4",
+      "effect": "플레이한 핸드에 스트레이트 포함 시 칩 +100 개를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "칩 증가"
+      ],
+      "trait_text": "칩 증가",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/0Ckem0HnrwE7HbpXlX0F4Etc-SUEwBT_Vh-sgfKpL6im8pyUE9QQOL40ujjfNuGgXKwmL1MmjRpy6N1t4EC2UQ.png",
+      "image_path": "assets/jokers/014-devious-joker.png",
+      "source_table_index": 20
+    },
+    {
+      "index": 15,
+      "id": "crafty-joker",
+      "rarity": "일반",
+      "section": "6.1.15",
+      "name": "간교한 조커",
+      "name_ko": "간교한 조커",
+      "name_ko_variants": [
+        "간교한 조커"
+      ],
+      "name_en": "Crafty Joker",
+      "cost": "$4",
+      "effect": "플레이한 핸드에 플러시 포함 시 칩 +80 개를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "칩 증가"
+      ],
+      "trait_text": "칩 증가",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/4VmBOeowLsMMJaxZN69M8ChzVVTDBZNACjqdWnnFxSsnXtLOrABSYRPf4wMlHlkOXQTivan5NO25ZlFbV7ibGg.png",
+      "image_path": "assets/jokers/015-crafty-joker.png",
+      "source_table_index": 21
+    },
+    {
+      "index": 16,
+      "id": "half-joker",
+      "rarity": "일반",
+      "section": "6.1.16",
+      "name": "반쪽짜리 조커/반쪽 조커",
+      "name_ko": "반쪽짜리 조커",
+      "name_ko_variants": [
+        "반쪽짜리 조커",
+        "반쪽 조커"
+      ],
+      "name_en": "Half Joker",
+      "cost": "$5",
+      "effect": "플레이한 핸드에 카드가 3장 이하라면 +20 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/fO-8eEzvtWCLwdDZ0FI0jWCwlkKM-Ru54yCgfnxxFi8O7WuhLqgw5Gmoyapm0D9zWQ_iozoGCJKqRhpkv5cEvA.png",
+      "image_path": "assets/jokers/016-half-joker.png",
+      "source_table_index": 22
+    },
+    {
+      "index": 17,
+      "id": "credit-card",
+      "rarity": "일반",
+      "section": "6.1.17",
+      "name": "신용카드",
+      "name_ko": "신용카드",
+      "name_ko_variants": [
+        "신용카드"
+      ],
+      "name_en": "Credit Card",
+      "cost": "$1",
+      "effect": "최대 -$20 까지 빚을 질 수 있습니다.",
+      "unlock": null,
+      "traits": [
+        "골드"
+      ],
+      "trait_text": "골드",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/HOZ1UEhRlZ7NKAIRxFxrOrXR-MhUVARiQ1oatxaJic7fpuIWRwWoq1GtBfZenzASOlM7cq7FV3MSH1Rh8LG4vw.png",
+      "image_path": "assets/jokers/017-credit-card.png",
+      "source_table_index": 23
+    },
+    {
+      "index": 18,
+      "id": "banner",
+      "rarity": "일반",
+      "section": "6.1.18",
+      "name": "깃발/현수막",
+      "name_ko": "깃발",
+      "name_ko_variants": [
+        "깃발",
+        "현수막"
+      ],
+      "name_en": "Banner",
+      "cost": "$5",
+      "effect": "남은 버리기마다 칩 +30 개를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "칩 증가"
+      ],
+      "trait_text": "칩 증가",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/eCY4LhzuwJdpShQ1ee7hMx_6vBOka8b8SQaz53IBWepNcDq4bjPJCOVtpcG-7c6OJtJ7h-f0TeBd0Sc9OmwoSA.png",
+      "image_path": "assets/jokers/018-banner.png",
+      "source_table_index": 24
+    },
+    {
+      "index": 19,
+      "id": "mystic-summit",
+      "rarity": "일반",
+      "section": "6.1.19",
+      "name": "신비의 정점",
+      "name_ko": "신비의 정점",
+      "name_ko_variants": [
+        "신비의 정점"
+      ],
+      "name_en": "Mystic Summit",
+      "cost": "$5",
+      "effect": "버리기가 0번 남았을 경우 +15 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/kLs7ZMZnli4O4nLLAdgFdfsIjrT_y5dxGkJ3YcXfaL9ysY0a6_Hc067V_7reW1RKFcb92sbmrpxN98qKWnaEFA.png",
+      "image_path": "assets/jokers/019-mystic-summit.png",
+      "source_table_index": 25
+    },
+    {
+      "index": 20,
+      "id": "8-ball",
+      "rarity": "일반",
+      "section": "6.1.20",
+      "name": "8번 공/8볼",
+      "name_ko": "8번 공",
+      "name_ko_variants": [
+        "8번 공",
+        "8볼"
+      ],
+      "name_en": "8 Ball",
+      "cost": "$5",
+      "effect": "플레이한 8 카드마다 1/4 확률로 타로카드를 생성합니다. (공간이 있어야 합니다.)",
+      "unlock": null,
+      "traits": [
+        "확률"
+      ],
+      "trait_text": "확률",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/H5InJ7Q-1G-JV-rN8IYZee6_iI_wAdFI_JtcYIn0cAxwD9v8YTwNR9jFf9qvyC5gm5hmKOvX0n6eryDpUvbs6A.png",
+      "image_path": "assets/jokers/020-8-ball.png",
+      "source_table_index": 26
+    },
+    {
+      "index": 21,
+      "id": "misprint",
+      "rarity": "일반",
+      "section": "6.1.21",
+      "name": "인쇄 오류/오탈자",
+      "name_ko": "인쇄 오류",
+      "name_ko_variants": [
+        "인쇄 오류",
+        "오탈자"
+      ],
+      "name_en": "Misprint",
+      "cost": "$4",
+      "effect": "+?? 배수",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/kMnckXJHHb4kOhYeoTyrX9NAezuqFEtFYXIAQzOpQnp2bOvkWT8z2jfQUy6Ot98qqG9KD3gLF3iUY5yiRrMURQ.png",
+      "image_path": "assets/jokers/021-misprint.png",
+      "source_table_index": 27
+    },
+    {
+      "index": 22,
+      "id": "raised-fist",
+      "rarity": "일반",
+      "section": "6.1.22",
+      "name": "들어올린 주먹",
+      "name_ko": "들어올린 주먹",
+      "name_ko_variants": [
+        "들어올린 주먹"
+      ],
+      "name_en": "Raised Fist",
+      "cost": "$5",
+      "effect": "핸드에 남아 있는 가장 낮은 카드의 랭크의 두 배를 배수에 추가합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/iu0y205vxPYulrQg2Mirctc9tm0VnxK_WN7StM6Vd68AIY0zs54N24BHhrT1YVbVmyIJIVbPBLD0oQsmenonEg.png",
+      "image_path": "assets/jokers/022-raised-fist.png",
+      "source_table_index": 28
+    },
+    {
+      "index": 23,
+      "id": "chaos-the-clown",
+      "rarity": "일반",
+      "section": "6.1.23",
+      "name": "혼돈의 광대",
+      "name_ko": "혼돈의 광대",
+      "name_ko_variants": [
+        "혼돈의 광대"
+      ],
+      "name_en": "Chaos the Clown",
+      "cost": "$4",
+      "effect": "상점마다 새로고침을 1번 무료로 할 수 있습니다.",
+      "unlock": null,
+      "traits": [
+        "패시브"
+      ],
+      "trait_text": "패시브",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/SQHDPYCCFi6zKORgGSSvuDL72QmqxKJNEkgc5or9ns5eWtVaaInfD3Smgu360hs2S0TDv6qEYf2UKFHY1-BFPQ.png",
+      "image_path": "assets/jokers/023-chaos-the-clown.png",
+      "source_table_index": 29
+    },
+    {
+      "index": 24,
+      "id": "scary-face",
+      "rarity": "일반",
+      "section": "6.1.24",
+      "name": "무서운 얼굴",
+      "name_ko": "무서운 얼굴",
+      "name_ko_variants": [
+        "무서운 얼굴"
+      ],
+      "name_en": "Scary Face",
+      "cost": "$4",
+      "effect": "그림 카드를 플레이해 득점할 때마다 +30 개를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "칩 증가"
+      ],
+      "trait_text": "칩 증가",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/03IHnRDLK7dlbD7ZmApWkz7g8ldh7i-B-y2IMCnQVB2c66EnLHb6DsdVGVfdUM69vYWm3VXxflUy98dKhtO94g.png",
+      "image_path": "assets/jokers/024-scary-face.png",
+      "source_table_index": 30
+    },
+    {
+      "index": 25,
+      "id": "abstract-joker",
+      "rarity": "일반",
+      "section": "6.1.25",
+      "name": "추상화 조커",
+      "name_ko": "추상화 조커",
+      "name_ko_variants": [
+        "추상화 조커"
+      ],
+      "name_en": "Abstract Joker",
+      "cost": "$4",
+      "effect": "조커 카드마다 +3 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/euclOpWHWPAIhY6kdZypBVZJVGhQ_QQfoObSqKfyfOE_ppfBHzRVci-jp5che5MpR-tXIrs5bGoEslaJ41RCiw.png",
+      "image_path": "assets/jokers/025-abstract-joker.png",
+      "source_table_index": 31
+    },
+    {
+      "index": 26,
+      "id": "delayed-gratification",
+      "rarity": "일반",
+      "section": "6.1.26",
+      "name": "기다림 끝에 낙이 온다/늦춰진 희열",
+      "name_ko": "기다림 끝에 낙이 온다",
+      "name_ko_variants": [
+        "기다림 끝에 낙이 온다",
+        "늦춰진 희열"
+      ],
+      "name_en": "Delayed Gratification",
+      "cost": "$4",
+      "effect": "라운드가 끝날 때까지 버리기를 사용하지 않으면 남은 버리기마다 $2 를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "골드"
+      ],
+      "trait_text": "골드",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/X-hyMUme5M16MGzKv7PtMKnNbrLce_6P30kWtHPvPpp3aI1R3L4zlWaqq1h65cWKmXPvEE4EiFWQ4dzrCR_xcA.png",
+      "image_path": "assets/jokers/026-delayed-gratification.png",
+      "source_table_index": 32
+    },
+    {
+      "index": 27,
+      "id": "gros-michel",
+      "rarity": "일반",
+      "section": "6.1.27",
+      "name": "그로 미셸",
+      "name_ko": "그로 미셸",
+      "name_ko_variants": [
+        "그로 미셸"
+      ],
+      "name_en": "Gros Michel",
+      "cost": "$5",
+      "effect": "+15 배수를 획득합니다. 라운드 종료 시 1/6 확률로 이 카드가 파괴됩니다. [24]",
+      "unlock": null,
+      "traits": [
+        "합배수",
+        "확률"
+      ],
+      "trait_text": "합배수 확률",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/_sU03Q7ocKyr1lh-P2mLCiubVAeiZY9Bbo-W3J-z9xAL01D5_xwmhN0Roou6u1YzzL5gq6d-nHv_NnpmByqYnw.png",
+      "image_path": "assets/jokers/027-gros-michel.png",
+      "source_table_index": 33
+    },
+    {
+      "index": 28,
+      "id": "even-steven",
+      "rarity": "일반",
+      "section": "6.1.28",
+      "name": "짝수 짝꿍/이븐 스티븐",
+      "name_ko": "짝수 짝꿍",
+      "name_ko_variants": [
+        "짝수 짝꿍",
+        "이븐 스티븐"
+      ],
+      "name_en": "Even Steven",
+      "cost": "$4",
+      "effect": "짝수 랭크 카드를 플레이해 득점할 때마다 +4 배수를 획득합니다. (10, 8, 6, 4, 2)",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/-ZqczTSiEEHf0wuUQUpz2dbrfnlQRddPUZf-gMykJNFcOKtTi1_CFnkKd1zkaAgZjzyzVE3PT_jM5v73RlOnzg.png",
+      "image_path": "assets/jokers/028-even-steven.png",
+      "source_table_index": 34
+    },
+    {
+      "index": 29,
+      "id": "odd-todd",
+      "rarity": "일반",
+      "section": "6.1.29",
+      "name": "홀수 홀씨/오드 토드",
+      "name_ko": "홀수 홀씨",
+      "name_ko_variants": [
+        "홀수 홀씨",
+        "오드 토드"
+      ],
+      "name_en": "Odd Todd",
+      "cost": "$4",
+      "effect": "홀수 랭크 카드를 플레이해 득점할 때마다 칩 +31 개를 획득합니다. (A, 9, 7, 5, 3)",
+      "unlock": null,
+      "traits": [
+        "칩 증가"
+      ],
+      "trait_text": "칩 증가",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/U1z-LuA6A0CWUOd9VJISJFnkS1m-kyuE3LVpUdWwaqAPMziFepsgB6G--pbF38WFrpU99u0iDgW9_SguN9gAbQ.png",
+      "image_path": "assets/jokers/029-odd-todd.png",
+      "source_table_index": 35
+    },
+    {
+      "index": 30,
+      "id": "scholar",
+      "rarity": "일반",
+      "section": "6.1.30",
+      "name": "장학생/학자",
+      "name_ko": "장학생",
+      "name_ko_variants": [
+        "장학생",
+        "학자"
+      ],
+      "name_en": "Scholar",
+      "cost": "$4",
+      "effect": "에이스를 플레이해 득점할 때마다 +4 배수 및 칩 +20 개를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수",
+        "칩 증가"
+      ],
+      "trait_text": "합배수 칩 증가",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/5k8_WLpxruft4pQj6u72CiNBy3Uoq_JZ4nb1rhhWZjpXcWBuM7c7tbpglRA7pLD8K53tI3mfxkzWvQu9su9DyA.png",
+      "image_path": "assets/jokers/030-scholar.png",
+      "source_table_index": 36
+    },
+    {
+      "index": 31,
+      "id": "business-card",
+      "rarity": "일반",
+      "section": "6.1.31",
+      "name": "명함",
+      "name_ko": "명함",
+      "name_ko_variants": [
+        "명함"
+      ],
+      "name_en": "Business Card",
+      "cost": "$4",
+      "effect": "그림 카드를 플레이해 득점할 때마다 1/2 확률로 $2 를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "골드"
+      ],
+      "trait_text": "골드",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/1ufz0KGIE6f_bJo9U_i0oRBwWbWsKCnkc2Y3gY1vzF62bZoLo55RALKyINvBbwMcgK8wXbCj-IxHWjxOzV7XmA.webp",
+      "image_path": "assets/jokers/031-business-card.webp",
+      "source_table_index": 37
+    },
+    {
+      "index": 32,
+      "id": "supernova",
+      "rarity": "일반",
+      "section": "6.1.32",
+      "name": "초신성",
+      "name_ko": "초신성",
+      "name_ko_variants": [
+        "초신성"
+      ],
+      "name_en": "Supernova",
+      "cost": "$4",
+      "effect": "족보가 플레이된 횟수를 배수에 추가합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/FAnABBU4gjDYo6cCRIV7F3gtaTavbM3HyaZNdZZLadZV-pFQ62GUCTkaGEkMytAbVKWC6lVxVWoxjD0TbJYRvw.webp",
+      "image_path": "assets/jokers/032-supernova.webp",
+      "source_table_index": 38
+    },
+    {
+      "index": 33,
+      "id": "ride-the-bus",
+      "rarity": "일반",
+      "section": "6.1.33",
+      "name": "버스 탑승",
+      "name_ko": "버스 탑승",
+      "name_ko_variants": [
+        "버스 탑승"
+      ],
+      "name_en": "Ride the Bus",
+      "cost": "$6",
+      "effect": "그림 카드를 득점하지 않고 연속으로 플레이한 핸드마다 +1 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수",
+        "성장형"
+      ],
+      "trait_text": "합배수 성장형",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/gqpuati588nsP50sDyErBpXUNVYMypImYfV2QqtSupHihUldVUPG1G2pN5VVAQUf_4qbv7tIAT6zbV4sBvy4-w.png",
+      "image_path": "assets/jokers/033-ride-the-bus.png",
+      "source_table_index": 39
+    },
+    {
+      "index": 34,
+      "id": "egg",
+      "rarity": "일반",
+      "section": "6.1.34",
+      "name": "알",
+      "name_ko": "알",
+      "name_ko_variants": [
+        "알"
+      ],
+      "name_en": "Egg",
+      "cost": "$4",
+      "effect": "라운드 종료 시 판매 가치가 $3 증가합니다.",
+      "unlock": null,
+      "traits": [
+        "골드",
+        "성장형"
+      ],
+      "trait_text": "골드 성장형",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/LVtQoWuKfULzEcLnXgTFwzqruIZX45lB2zwIauYabMVrcvsr4u41AS4US-zAgw8cCzIOW5OWYlzgFFigaRhI2w.png",
+      "image_path": "assets/jokers/034-egg.png",
+      "source_table_index": 40
+    },
+    {
+      "index": 35,
+      "id": "runner",
+      "rarity": "일반",
+      "section": "6.1.35",
+      "name": "주자",
+      "name_ko": "주자",
+      "name_ko_variants": [
+        "주자"
+      ],
+      "name_en": "Runner",
+      "cost": "$5",
+      "effect": "플레이한 핸드에 스트레이트가 있으면 칩 획득량이 +15 개 증가합니다. (기본 칩 +0 )",
+      "unlock": null,
+      "traits": [
+        "칩 증가",
+        "성장형"
+      ],
+      "trait_text": "칩 증가 성장형",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/T6W6j2ScvOyDnysT6VjVEWqmkfPiadW4F-2ME488NvuyD5y3WQMQcrpeIljEGNhwMW0uwgsuurl4ISCFVY5zbg.png",
+      "image_path": "assets/jokers/035-runner.png",
+      "source_table_index": 41
+    },
+    {
+      "index": 36,
+      "id": "ice-cream",
+      "rarity": "일반",
+      "section": "6.1.36",
+      "name": "아이스크림",
+      "name_ko": "아이스크림",
+      "name_ko_variants": [
+        "아이스크림"
+      ],
+      "name_en": "Ice Cream",
+      "cost": "$5",
+      "effect": "칩 +100 개를 획득합니다. 핸드를 플레이할 때마다 칩이 -5 개 감소합니다.",
+      "unlock": null,
+      "traits": [
+        "칩 증가",
+        "체감형"
+      ],
+      "trait_text": "칩 증가 체감형",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/BUCeyVn42XR4tIlyWf6bIpA0VYW8nVeU7ybNCvWzJfKEB_CmnfEgaBUfmFKk5R1eXE5ry5pDPhxqJWCJ98CHyg.png",
+      "image_path": "assets/jokers/036-ice-cream.png",
+      "source_table_index": 42
+    },
+    {
+      "index": 37,
+      "id": "splash",
+      "rarity": "일반",
+      "section": "6.1.37",
+      "name": "물보라/첨벙",
+      "name_ko": "물보라",
+      "name_ko_variants": [
+        "물보라",
+        "첨벙"
+      ],
+      "name_en": "Splash",
+      "cost": "$3",
+      "effect": "플레이한 카드가 모두 득점에 계산됩니다.",
+      "unlock": null,
+      "traits": [
+        "패시브"
+      ],
+      "trait_text": "패시브",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/8ut7zKm0OblnC8uF-0GvXweijXuKvq2CDwhheHadPrxOmKaigrVRK-4CXSKXDbT12reGTuKHLnzhcohDw40JAw.png",
+      "image_path": "assets/jokers/037-splash.png",
+      "source_table_index": 43
+    },
+    {
+      "index": 38,
+      "id": "blue-joker",
+      "rarity": "일반",
+      "section": "6.1.38",
+      "name": "파란 조커/블루 조커",
+      "name_ko": "파란 조커",
+      "name_ko_variants": [
+        "파란 조커",
+        "블루 조커"
+      ],
+      "name_en": "Blue Joker",
+      "cost": "$5",
+      "effect": "덱에 남아 있는 카드마다 칩 +2 개를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "칩 증가"
+      ],
+      "trait_text": "칩 증가",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/YnXQhcdU1Ag2eL0PWOLdZMAjlJ0AMkaXBCq2s-e2ZImOZi1lJN5fYHZn-vMauzyysnKrL2-Md_wI76LlnMnAuQ.png",
+      "image_path": "assets/jokers/038-blue-joker.png",
+      "source_table_index": 44
+    },
+    {
+      "index": 39,
+      "id": "faceless-joker",
+      "rarity": "일반",
+      "section": "6.1.39",
+      "name": "얼굴 없는 조커",
+      "name_ko": "얼굴 없는 조커",
+      "name_ko_variants": [
+        "얼굴 없는 조커"
+      ],
+      "name_en": "Faceless Joker",
+      "cost": "$4",
+      "effect": "3장 이상의 그림 카드를 동시에 버리면 $5 를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "골드"
+      ],
+      "trait_text": "골드",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/D6togWvORKhP_NZ-IVoFZv5GqAbGBrKQJjd1toLZi3bslJqx1VHH319fUtJpOXo3Qte6xYHH21a00e1AGDDHhQ.png",
+      "image_path": "assets/jokers/039-faceless-joker.png",
+      "source_table_index": 45
+    },
+    {
+      "index": 40,
+      "id": "green-joker",
+      "rarity": "일반",
+      "section": "6.1.40",
+      "name": "초록 조커/그린 조커",
+      "name_ko": "초록 조커",
+      "name_ko_variants": [
+        "초록 조커",
+        "그린 조커"
+      ],
+      "name_en": "Green Joker",
+      "cost": "$4",
+      "effect": "핸드를 플레이하면 배수 획득량이 +1 증가하고, 카드를 버리면 -1 감소합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수",
+        "성장형"
+      ],
+      "trait_text": "합배수 성장형",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/R2FvtI9voVMUY1Dv_iQrA-cMlfTVpftMXdybbkDNzAHHw5fNlvn10Jwaafq3q7MfrvkvwL8QrfSZuQfY2mclNQ.png",
+      "image_path": "assets/jokers/040-green-joker.png",
+      "source_table_index": 46
+    },
+    {
+      "index": 41,
+      "id": "superposition",
+      "rarity": "일반",
+      "section": "6.1.41",
+      "name": "중첩",
+      "name_ko": "중첩",
+      "name_ko_variants": [
+        "중첩"
+      ],
+      "name_en": "Superposition",
+      "cost": "$4",
+      "effect": "특성",
+      "unlock": "족보에 에이스 및 스트레이트 포함 시 타로 카드를 생성합니다.",
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/FbWEk7MuwAnt0WUAhNKS_6HZd5oqOGt3Ogbzw4X26FTMzcf6YkJ8dPDHKTlL19giOYmTyePy_9j96Hma4Idy2g.webp",
+      "image_path": "assets/jokers/041-superposition.webp",
+      "source_table_index": 47,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 42,
+      "id": "to-do-list",
+      "rarity": "일반",
+      "section": "6.1.42",
+      "name": "할 일 목록",
+      "name_ko": "할 일 목록",
+      "name_ko_variants": [
+        "할 일 목록"
+      ],
+      "name_en": "To Do List",
+      "cost": "$4",
+      "effect": "족보가 \"특정 족보\"인 경우 $4 를 획득합니다. 대상 족보는 라운드 종료 시 변경됩니다.",
+      "unlock": null,
+      "traits": [
+        "골드"
+      ],
+      "trait_text": "골드",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/upG-Vwi3TEZuHABI6FdXgn7q80kthxcTMKmLf1yQKUTcZ5jM_8vWZQ_hGqpApexnLw5WYLJCjT3i9v3_hBgO4g.png",
+      "image_path": "assets/jokers/042-to-do-list.png",
+      "source_table_index": 48
+    },
+    {
+      "index": 43,
+      "id": "cavendish",
+      "rarity": "일반",
+      "section": "6.1.43",
+      "name": "캐번디시",
+      "name_ko": "캐번디시",
+      "name_ko_variants": [
+        "캐번디시"
+      ],
+      "name_en": "Cavendish",
+      "cost": "$4",
+      "effect": "×3 배수를 획득합니다. 라운드 종료 시 1/1000 확률로 이 카드가 파괴됩니다.",
+      "unlock": "그로 미셸이 자신의 효과로 파괴된 런에서만 등장",
+      "traits": [
+        "곱배수",
+        "확률"
+      ],
+      "trait_text": "곱배수 확률",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/_uGvMwCiQdxuIcYYirVy_-DTYoSUyY9usaNSYoGox9smRSUaX8oMtHfGAiIk5YqvvMOKXOIRoXEHg1G3M46cGg.webp",
+      "image_path": "assets/jokers/043-cavendish.webp",
+      "source_table_index": 49
+    },
+    {
+      "index": 44,
+      "id": "red-card",
+      "rarity": "일반",
+      "section": "6.1.44",
+      "name": "레드카드",
+      "name_ko": "레드카드",
+      "name_ko_variants": [
+        "레드카드"
+      ],
+      "name_en": "Red Card",
+      "cost": "$5",
+      "effect": "부스터 팩을 건너뛰면 배수 획득량이 +3 증가합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수",
+        "성장형"
+      ],
+      "trait_text": "합배수 성장형",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/SROwbXJRuX9wsTX6jOp6WitsEpk0mTVEJuGsGzDpZfuU_ihW-C165xplb-5crFa39WvNbGyLT-obRBbeh8v6Ow.webp",
+      "image_path": "assets/jokers/044-red-card.webp",
+      "source_table_index": 50
+    },
+    {
+      "index": 45,
+      "id": "square-joker",
+      "rarity": "일반",
+      "section": "6.1.45",
+      "name": "네모난 조커/정사각형 조커",
+      "name_ko": "네모난 조커",
+      "name_ko_variants": [
+        "네모난 조커",
+        "정사각형 조커"
+      ],
+      "name_en": "Square Joker",
+      "cost": "$4",
+      "effect": "정확히 카드 4장으로 이루어진 핸드를 플레이할 때마다 칩 획득량이 +4 개 증가합니다. (기본 칩 +0 개)",
+      "unlock": null,
+      "traits": [
+        "칩 증가",
+        "성장형"
+      ],
+      "trait_text": "칩 증가 성장형",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/4eiaiYL4NpFOHsArlSCoXau5VzeJXz90N_q_EQesZwbpdxcyZHjpqy2bMCYNK9F3hiEdQAXAyDraxyK3apXnZA.png",
+      "image_path": "assets/jokers/045-square-joker.png",
+      "source_table_index": 51
+    },
+    {
+      "index": 46,
+      "id": "riff-raff",
+      "rarity": "일반",
+      "section": "6.1.46",
+      "name": "조무래기/쓰레기",
+      "name_ko": "조무래기",
+      "name_ko_variants": [
+        "조무래기",
+        "쓰레기"
+      ],
+      "name_en": "Riff-Raff",
+      "cost": "$6",
+      "effect": "특성",
+      "unlock": "블라인드를 선택하면 일반 조커 2장을 생성합니다.",
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/XijtMrZOTg8g-c_oHbHOMzGWirRPcstFDfQcKkF3UO5uudbHfoUWXOoZw3urzZUZrKvDZLta61Scw9Fgk0blkA.png",
+      "image_path": "assets/jokers/046-riff-raff.png",
+      "source_table_index": 52,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 47,
+      "id": "photograph",
+      "rarity": "일반",
+      "section": "6.1.47",
+      "name": "사진",
+      "name_ko": "사진",
+      "name_ko_variants": [
+        "사진"
+      ],
+      "name_en": "Photograph",
+      "cost": "$5",
+      "effect": "처음 플레이한 그림 카드가 득점하면 ×2 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/Ng-jy1TNFxOCAGBzebcmQW81HNJnqt4RQdYCzjdAPt09uwE8ChvMNqyQISBiGi48IBQuYDcds_betVBED_4dUQ.webp",
+      "image_path": "assets/jokers/047-photograph.webp",
+      "source_table_index": 53
+    },
+    {
+      "index": 48,
+      "id": "reserved-parking",
+      "rarity": "일반",
+      "section": "6.1.48",
+      "name": "지정 주차 공간",
+      "name_ko": "지정 주차 공간",
+      "name_ko_variants": [
+        "지정 주차 공간"
+      ],
+      "name_en": "Reserved Parking",
+      "cost": "$6",
+      "effect": "핸드에 남아 있는 그림 카드마다 1/2 확률로 $1 를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "골드"
+      ],
+      "trait_text": "골드",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/pxlSMPKyztrxlho4FNrQaLYMjkLRgFNfODYJARzVi_B99IBiBqHckjehI1BFV6jRcYVazc1wXNIYMXoHhlvRRQ.png",
+      "image_path": "assets/jokers/048-reserved-parking.png",
+      "source_table_index": 54
+    },
+    {
+      "index": 49,
+      "id": "mail-in-rebate",
+      "rarity": "일반",
+      "section": "6.1.49",
+      "name": "우편 할인/편지",
+      "name_ko": "우편 할인",
+      "name_ko_variants": [
+        "우편 할인",
+        "편지"
+      ],
+      "name_en": "Mail-In Rebate",
+      "cost": "$4",
+      "effect": "[특정 랭크 카드]을(를) 버릴 때마다 $5 을 획득합니다. 랭크는 매 라운드 변경됩니다.",
+      "unlock": null,
+      "traits": [
+        "골드"
+      ],
+      "trait_text": "골드",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/fJl6ywaEfQO9Ezv1ejRcnEGrfKFt6Luw0LToNzzlEhhv-6zaBOKUanCaTQN8C3MSLoY7UBUsjyNGX72O1u7U1Q.png",
+      "image_path": "assets/jokers/049-mail-in-rebate.png",
+      "source_table_index": 55
+    },
+    {
+      "index": 50,
+      "id": "hallucination",
+      "rarity": "일반",
+      "section": "6.1.50",
+      "name": "환각",
+      "name_ko": "환각",
+      "name_ko_variants": [
+        "환각"
+      ],
+      "name_en": "Hallucination",
+      "cost": "$4",
+      "effect": "특성",
+      "unlock": "부스터 팩을 열 때마다 1/2 확률로 타로 카드를 생성합니다.(공간이 있어야 합니다.)",
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/A0kVofdy_i3Uf4-RLmO56hIsIZe3ojOThG6Wn_YHyirPOP8rt8j6IK-R_bmZh0ic31q5hBwzhAExFHqeC2q6cw.png",
+      "image_path": "assets/jokers/050-hallucination.png",
+      "source_table_index": 56,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 51,
+      "id": "fortune-teller",
+      "rarity": "일반",
+      "section": "6.1.51",
+      "name": "점쟁이",
+      "name_ko": "점쟁이",
+      "name_ko_variants": [
+        "점쟁이"
+      ],
+      "name_en": "Fortune Teller",
+      "cost": "$6",
+      "effect": "이번 런에서 사용한 타로 카드마다 +1 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수",
+        "성장형"
+      ],
+      "trait_text": "합배수 성장형",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/JbSeazoxmDmOIyWKM-vly0WUfEq9BCyr5CKFKAmqJYjt470LBZsJ3QSyNUScKVxBZyTF8ZJSTx7j3zVmhEdI9A.png",
+      "image_path": "assets/jokers/051-fortune-teller.png",
+      "source_table_index": 57
+    },
+    {
+      "index": 52,
+      "id": "juggler",
+      "rarity": "일반",
+      "section": "6.1.52",
+      "name": "저글러",
+      "name_ko": "저글러",
+      "name_ko_variants": [
+        "저글러"
+      ],
+      "name_en": "Juggler",
+      "cost": "$4",
+      "effect": "핸드 크기 +1",
+      "unlock": null,
+      "traits": [
+        "패시브"
+      ],
+      "trait_text": "패시브",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/KT3MGmAXdhDgjIe6BYgKAUiDjInkCzIvg40JaQGAgKf6CCEEP6OUdMfsKWPE_NMFdvpeiQ4BWIPRLmScb9AYXQ.png",
+      "image_path": "assets/jokers/052-juggler.png",
+      "source_table_index": 58
+    },
+    {
+      "index": 53,
+      "id": "drunkard",
+      "rarity": "일반",
+      "section": "6.1.53",
+      "name": "술고래",
+      "name_ko": "술고래",
+      "name_ko_variants": [
+        "술고래"
+      ],
+      "name_en": "Drunkard",
+      "cost": "$4",
+      "effect": "버리기 +1 번",
+      "unlock": null,
+      "traits": [
+        "패시브"
+      ],
+      "trait_text": "패시브",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/h9-lBSLoJ8eTadP9rMERYhPdIq2EP4XEqu_JvLdeR55ge1nzmm9UYWazLD2s7oXF6n28OWWeaX2Dg9s9bSbeaQ.png",
+      "image_path": "assets/jokers/053-drunkard.png",
+      "source_table_index": 59
+    },
+    {
+      "index": 54,
+      "id": "golden-joker",
+      "rarity": "일반",
+      "section": "6.1.54",
+      "name": "황금 조커/골든 조커",
+      "name_ko": "황금 조커",
+      "name_ko_variants": [
+        "황금 조커",
+        "골든 조커"
+      ],
+      "name_en": "Golden Joker",
+      "cost": "$6",
+      "effect": "라운드 종료 시 $4 를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "골드"
+      ],
+      "trait_text": "골드",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/sNJ0HVhxrzxkLvZPziQeCNN82YCrOsBd-zpwz6B1ZmhC7gYr18y6UH6qSSFDJfBp6aYU8SCy0fwvBbJdS3UTwA.png",
+      "image_path": "assets/jokers/054-golden-joker.png",
+      "source_table_index": 60
+    },
+    {
+      "index": 55,
+      "id": "popcorn",
+      "rarity": "일반",
+      "section": "6.1.55",
+      "name": "팝콘",
+      "name_ko": "팝콘",
+      "name_ko_variants": [
+        "팝콘"
+      ],
+      "name_en": "Popcorn",
+      "cost": "$5",
+      "effect": "+20 배수를 획득합니다. 라운드 종료 시 배수가 -4 감소합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수",
+        "체감형"
+      ],
+      "trait_text": "합배수 체감형",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/rVu-ZPuC3cCblqIkgVrm_3FjJiFl2Jm1lSvXmpLF1itQYBGdTinafWdc1Kttv2F56WNWOM4mVdXpRrpHlOaRdA.png",
+      "image_path": "assets/jokers/055-popcorn.png",
+      "source_table_index": 61
+    },
+    {
+      "index": 56,
+      "id": "walkie-talkie",
+      "rarity": "일반",
+      "section": "6.1.56",
+      "name": "휴대용 무전기/워키토키",
+      "name_ko": "휴대용 무전기",
+      "name_ko_variants": [
+        "휴대용 무전기",
+        "워키토키"
+      ],
+      "name_en": "Walkie Talkie",
+      "cost": "$4",
+      "effect": "10 또는 4를 플레이해 득점할 때마다 칩 +10 개와 +4 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수",
+        "칩 증가"
+      ],
+      "trait_text": "합배수 칩 증가",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/4fJYKUrJ8b614eFWYTRayZ16E9NrD5rIoemokhPlTOrvXw1_WP9PejmJxIo70HB0TYSPA9otulCV6aeGhhdANA.png",
+      "image_path": "assets/jokers/056-walkie-talkie.png",
+      "source_table_index": 62
+    },
+    {
+      "index": 57,
+      "id": "smiley-face",
+      "rarity": "일반",
+      "section": "6.1.57",
+      "name": "웃는 얼굴",
+      "name_ko": "웃는 얼굴",
+      "name_ko_variants": [
+        "웃는 얼굴"
+      ],
+      "name_en": "Smiley Face",
+      "cost": "$4",
+      "effect": "그림 카드를 플레이해 득점할 때마다 +5 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/kAPg8h4IHVQho0qFH4W_oEuDP2Uu1farXQLAvh82kpCwanfzXfDYRz89zLgdyGk-s1qkvqkLpidyTV2Rm32P1w.png",
+      "image_path": "assets/jokers/057-smiley-face.png",
+      "source_table_index": 63
+    },
+    {
+      "index": 58,
+      "id": "golden-ticket",
+      "rarity": "일반",
+      "section": "6.1.58",
+      "name": "황금 티켓/골든 티켓",
+      "name_ko": "황금 티켓",
+      "name_ko_variants": [
+        "황금 티켓",
+        "골든 티켓"
+      ],
+      "name_en": "Golden Ticket",
+      "cost": "$5",
+      "effect": "골드 카드를 플레이할 때마다 득점 시 $4 를 획득합니다.",
+      "unlock": "골드 카드만 포함된 5장 카드의 핸드로 플레이합니다. [41]",
+      "traits": [
+        "골드"
+      ],
+      "trait_text": "골드",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/V15O49eGxSbhGqTmin70WrLIccB53-rZh01_jwIioL5VuaBGhpAkTir2ThaCtpl6f_Y1w1dtCKvQ_fQRUqpIUw.png",
+      "image_path": "assets/jokers/058-golden-ticket.png",
+      "source_table_index": 64
+    },
+    {
+      "index": 59,
+      "id": "swashbuckler",
+      "rarity": "일반",
+      "section": "6.1.59",
+      "name": "해적/깡패",
+      "name_ko": "해적",
+      "name_ko_variants": [
+        "해적",
+        "깡패"
+      ],
+      "name_en": "Swashbuckler",
+      "cost": "$4",
+      "effect": "모든 조커의 판매 가치를 배수에 추가합니다.",
+      "unlock": "조커 카드를 20장 판다.",
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/y8YS2TAp616EI1z0LawokOtoBYp_Y2mOcxnv2SqVGPgC6K9cqA0mZxiwP_Ior-9pU6EyTs8hX-cXHT2QOd8EDg.png",
+      "image_path": "assets/jokers/059-swashbuckler.png",
+      "source_table_index": 65
+    },
+    {
+      "index": 60,
+      "id": "hanging-chad",
+      "rarity": "일반",
+      "section": "6.1.60",
+      "name": "매달린 종이 조각/종이 구멍",
+      "name_ko": "매달린 종이 조각",
+      "name_ko_variants": [
+        "매달린 종이 조각",
+        "종이 구멍"
+      ],
+      "name_en": "Hanging Chad",
+      "cost": "$4",
+      "effect": "득점에 사용된 첫 번째로 플레이한 카드를 2번 발동합니다.",
+      "unlock": "하이 카드로 보스 블라인드를 격파한다.",
+      "traits": [
+        "리트리거"
+      ],
+      "trait_text": "리트리거",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/UG557r76YiAy2F8FuAjbcsItoQFp1sgsTumGnBvoy96custJWlDU-D_yc11Mb_FPenMdHE1CrlIyUEWnZ0u73w.png",
+      "image_path": "assets/jokers/060-hanging-chad.png",
+      "source_table_index": 66
+    },
+    {
+      "index": 61,
+      "id": "shoot-the-moon",
+      "rarity": "일반",
+      "section": "6.1.61",
+      "name": "슛 더 문/야반도주",
+      "name_ko": "슛 더 문",
+      "name_ko_variants": [
+        "슛 더 문",
+        "야반도주"
+      ],
+      "name_en": "Shoot the Moon",
+      "cost": "$5",
+      "effect": "핸드에 남아 있는 퀸마다 +13 배수를 획득합니다.",
+      "unlock": "한 라운드에서 덱의 모든 하트 문양 카드를 플레이한다.",
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/HJGdDYqN5vktHzMdSs43hw_GBsTEQt5yqqKTsgtEbyvf20LYuTEMBhXKNZTYSxWjDvxf9YSDKy0RJTTSoD5zgg.png",
+      "image_path": "assets/jokers/061-shoot-the-moon.png",
+      "source_table_index": 67
+    },
+    {
+      "index": 62,
+      "id": "joker-stencil",
+      "rarity": "희귀",
+      "section": "6.2.1",
+      "name": "조커 스텐실",
+      "name_ko": "조커 스텐실",
+      "name_ko_variants": [
+        "조커 스텐실"
+      ],
+      "name_en": "Joker Stencil",
+      "cost": "$8",
+      "effect": "빈 조커 슬롯마다 ×1 배수를 획득합니다. 조커 스텐실은 빈 슬롯으로 간주",
+      "unlock": null,
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/kaNWI2Penfv2NUW53HC5xOW9HbUHdTKFS7FaoCO2c5kXwqCVWzKTauoGLvwRir7tVggDrhzWKUeWaJy4PRGpdQ.png",
+      "image_path": "assets/jokers/062-joker-stencil.png",
+      "source_table_index": 68
+    },
+    {
+      "index": 63,
+      "id": "four-fingers",
+      "rarity": "희귀",
+      "section": "6.2.2",
+      "name": "네 개의 손가락",
+      "name_ko": "네 개의 손가락",
+      "name_ko_variants": [
+        "네 개의 손가락"
+      ],
+      "name_en": "Four Fingers",
+      "cost": "$7",
+      "effect": "모든 플러시와 스트레이트를 카드 4장만으로 만들 수 있게 됩니다.",
+      "unlock": null,
+      "traits": [
+        "패시브"
+      ],
+      "trait_text": "패시브",
+      "trait_source": "namu",
+      "image_url": "https://i.namu.wiki/i/RhproJyqOjMFweqzVN8fpRJk8tGNtkHlE92AgpVeuZ_NjPpMF_3K7fpKsHVoCnMT1mEYpNPZ6kYpV1ruDVJjBA.png",
+      "image_path": "assets/jokers/063-four-fingers.png",
+      "source_table_index": 69
+    },
+    {
+      "index": 64,
+      "id": "mime",
+      "rarity": "희귀",
+      "section": "6.2.3",
+      "name": "마임",
+      "name_ko": "마임",
+      "name_ko_variants": [
+        "마임"
+      ],
+      "name_en": "Mime",
+      "cost": null,
+      "effect": "핸드에 남아 있을 때 발동하는 카드 및 그와 관련된 모든 카드를 다시 발동합니다.",
+      "unlock": null,
+      "traits": [
+        "리트리거"
+      ],
+      "trait_text": "리트리거",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/dODjZP_5wu_1oleHuX0xc0chC5zKcIz83iUX7TOMtce0v9bs7C17njPEtdNewUntD9stCTPMG1nk9gmFO-PAxA.png",
+      "image_path": "assets/jokers/064-mime.png",
+      "source_table_index": 70,
+      "fandom_type": "Retrigger"
+    },
+    {
+      "index": 65,
+      "id": "ceremonial-dagger",
+      "rarity": "희귀",
+      "section": "6.2.4",
+      "name": "의식용 단검",
+      "name_ko": "의식용 단검",
+      "name_ko_variants": [
+        "의식용 단검"
+      ],
+      "name_en": "Ceremonial Dagger",
+      "cost": null,
+      "effect": "블라인드를 선택하면 오른쪽 조커를 파괴하고 그 조커의 판매 가치의 두 배만큼 배수 획득량이 증가합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/i43aRDokklRsQM6JFNfjySAwIbAwpNBopTSJgxc0LasFNjq3SXb1xKPQgdUNQ0OroU_SqXPMkh3boROdO80LhA.png",
+      "image_path": "assets/jokers/065-ceremonial-dagger.png",
+      "source_table_index": 71,
+      "fandom_type": "Additive Mult"
+    },
+    {
+      "index": 66,
+      "id": "marble-joker",
+      "rarity": "희귀",
+      "section": "6.2.5",
+      "name": "대리석 조커/마블 조커",
+      "name_ko": "대리석 조커",
+      "name_ko_variants": [
+        "대리석 조커",
+        "마블 조커"
+      ],
+      "name_en": "Marble Joker",
+      "cost": null,
+      "effect": "블라인드를 선택하면 덱에 스톤 카드를 한 장을 추가합니다.",
+      "unlock": null,
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/B23A23uqt2MW3Htr2g3uLMJzKXw4CLYphcwR0J0i13MXkRm94kQYOk6n6TtN_VOCQ5XKmnlA3l5ihrHOJqTVWQ.png",
+      "image_path": "assets/jokers/066-marble-joker.png",
+      "source_table_index": 72,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 67,
+      "id": "loyalty-card",
+      "rarity": "희귀",
+      "section": "6.2.6",
+      "name": "도장 쿠폰/로열티 카드",
+      "name_ko": "도장 쿠폰",
+      "name_ko_variants": [
+        "도장 쿠폰",
+        "로열티 카드"
+      ],
+      "name_en": "Loyalty Card",
+      "cost": null,
+      "effect": "6번의 핸드를 플레이할 때마다 ×4 배수",
+      "unlock": null,
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/nqUXZxbXUZtgm_S0d_RfsMGHFDY6IUzv_auRmLezrsgkb_3OhtJDtVSGosukiUoNcfojp3fQBRkZO5M3BVvGfA.png",
+      "image_path": "assets/jokers/067-loyalty-card.png",
+      "source_table_index": 73,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 68,
+      "id": "dusk",
+      "rarity": "희귀",
+      "section": "6.2.7",
+      "name": "황혼/땅거미",
+      "name_ko": "황혼",
+      "name_ko_variants": [
+        "황혼",
+        "땅거미"
+      ],
+      "name_en": "Dusk",
+      "cost": null,
+      "effect": "이번 핸드가 마지막 핸드라면 모든 카드를 다시 발동합니다.",
+      "unlock": null,
+      "traits": [
+        "리트리거"
+      ],
+      "trait_text": "리트리거",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/xa3OUSueY7e2IDWpysTxADpVAdX7eISPbZ1sdrzst52DT6RWLzVtmiXxS4zY44gx_q-RgiuCs_TlRprA-2Vjbg.png",
+      "image_path": "assets/jokers/068-dusk.png",
+      "source_table_index": 74,
+      "fandom_type": "Retrigger"
+    },
+    {
+      "index": 69,
+      "id": "fibonacci",
+      "rarity": "희귀",
+      "section": "6.2.8",
+      "name": "피보나치",
+      "name_ko": "피보나치",
+      "name_ko_variants": [
+        "피보나치"
+      ],
+      "name_en": "Fibonacci",
+      "cost": null,
+      "effect": "에이스, 2, 3, 5, 8을 플레이해 득점할 때마다 +8 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/YbbrNo-XJgzMg523fZ60dkRjcGyDfePbHozF593_zI5Q76uYKHXS6MJrtw1Yq05hrmF7wrpSkiq9u1G6slpHkw.png",
+      "image_path": "assets/jokers/069-fibonacci.png",
+      "source_table_index": 75,
+      "fandom_type": "Additive Mult"
+    },
+    {
+      "index": 70,
+      "id": "steel-joker",
+      "rarity": "희귀",
+      "section": "6.2.9",
+      "name": "강철 조커/스틸 조커",
+      "name_ko": "강철 조커",
+      "name_ko_variants": [
+        "강철 조커",
+        "스틸 조커"
+      ],
+      "name_en": "Steel Joker",
+      "cost": null,
+      "effect": "이 조커는 전체 덱에 있는 강철 카드마다 ×0.2 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/C6F3h45Bc1QUAZPxuGdWDaHAN59gzmWH-PeJDTzPxqQr6zLJzenZA5Lsavz8Uizj4J7y9NwKhTMFJ5iDtSdVaA.png",
+      "image_path": "assets/jokers/070-steel-joker.png",
+      "source_table_index": 76,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 71,
+      "id": "hack",
+      "rarity": "희귀",
+      "section": "6.2.10",
+      "name": "삼류/사기꾼",
+      "name_ko": "삼류",
+      "name_ko_variants": [
+        "삼류",
+        "사기꾼"
+      ],
+      "name_en": "Hack",
+      "cost": null,
+      "effect": "플레이한 2, 3, 4, 5를 다시 발동합니다.",
+      "unlock": null,
+      "traits": [
+        "리트리거"
+      ],
+      "trait_text": "리트리거",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/p1GgJOK2be5WMO1RFbZ1FURiOAo4nEjSy_2S7A9QMZeE1SDZfgr4ifuJ6DZfU3gZFKx7QAPfUuWYh1RfbDZwZg.png",
+      "image_path": "assets/jokers/071-hack.png",
+      "source_table_index": 77,
+      "fandom_type": "Retrigger"
+    },
+    {
+      "index": 72,
+      "id": "pareidolia",
+      "rarity": "희귀",
+      "section": "6.2.11",
+      "name": "변상증",
+      "name_ko": "변상증",
+      "name_ko_variants": [
+        "변상증"
+      ],
+      "name_en": "Pareidolia",
+      "cost": null,
+      "effect": "모든 카드를 그림카드로 취급합니다.",
+      "unlock": null,
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/0vT415JaZjuiobEW81VIYRuvyXTpr-PSbty0Qfwn6onGMdfimK2E7QNO5Dode8_6oBY3gykgCox4ESJt4jZ0Ww.png",
+      "image_path": "assets/jokers/072-pareidolia.png",
+      "source_table_index": 78,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 73,
+      "id": "space-joker",
+      "rarity": "희귀",
+      "section": "6.2.12",
+      "name": "우주 조커/스페이스 조커",
+      "name_ko": "우주 조커",
+      "name_ko_variants": [
+        "우주 조커",
+        "스페이스 조커"
+      ],
+      "name_en": "Space Joker",
+      "cost": null,
+      "effect": "1/4 확률로 플레이한 족보 레벨을 업그레이드합니다.",
+      "unlock": null,
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/wfyJW8efW9Qka6x7tpZeUAtqiIPVjACqTJHVDk4v7uttCkwvilO2QhbR-AKueIlTYJy1Vm140ZmYE0Vxyu9VkA.png",
+      "image_path": "assets/jokers/073-space-joker.png",
+      "source_table_index": 79,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 74,
+      "id": "burglar",
+      "rarity": "희귀",
+      "section": "6.2.13",
+      "name": "절도범",
+      "name_ko": "절도범",
+      "name_ko_variants": [
+        "절도범"
+      ],
+      "name_en": "Burglar",
+      "cost": null,
+      "effect": "블라인드를 선택하면 핸드 +3 번을 얻고 버리기를 모두 잃습니다.",
+      "unlock": null,
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/ppwCGzgtV9ZnS78iXzVznP42P4onCohNuQkMt3-AgCYwheNk8tQX1mrolI1QFXqmHkaHKqml5TnWTAHRtt-Kdw.png",
+      "image_path": "assets/jokers/074-burglar.png",
+      "source_table_index": 80,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 75,
+      "id": "blackboard",
+      "rarity": "희귀",
+      "section": "6.2.14",
+      "name": "칠판",
+      "name_ko": "칠판",
+      "name_ko_variants": [
+        "칠판"
+      ],
+      "name_en": "Blackboard",
+      "cost": null,
+      "effect": "핸드에 남아 있는 모든 카드가 스페이드 또는 클럽인 경우 ×3 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/pusq3vvHoxrqiAbbsdWNTfkxcl1Zkfb5UdfcFBSLGW74e6GPukRbRXh7rDMMFRf3Uceh3XjbWuL-j0tsn2gpog.png",
+      "image_path": "assets/jokers/075-blackboard.png",
+      "source_table_index": 81,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 76,
+      "id": "sixth-sense",
+      "rarity": "희귀",
+      "section": "6.2.15",
+      "name": "육감",
+      "name_ko": "육감",
+      "name_ko_variants": [
+        "육감"
+      ],
+      "name_en": "Sixth Sense",
+      "cost": null,
+      "effect": "라운드의 첫 번째 핸드가 6 한 장이면, 그걸 파괴하고 유령 카드를 생성합니다. (공간이 있어야 합니다.)",
+      "unlock": null,
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/EOtDEu7WhBTZjasK6WhSgIXk-7rsOvtxRXLTWNsXOBaTzx5it0W65xAXUp-JC22acQlhF1gVZAxt1NopDi9AUw.png",
+      "image_path": "assets/jokers/076-sixth-sense.png",
+      "source_table_index": 82,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 77,
+      "id": "constellation",
+      "rarity": "희귀",
+      "section": "6.2.16",
+      "name": "별자리",
+      "name_ko": "별자리",
+      "name_ko_variants": [
+        "별자리"
+      ],
+      "name_en": "Constellation",
+      "cost": null,
+      "effect": "행성 카드를 사용하면 배수 획득량이 ×0.1 증가합니다. (기본 ×1 배수)",
+      "unlock": null,
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/QO6_D-bgS9C0JVyR_h9rUegqROJfh74TBKl5ylr4hHYExvRQ8YN09p6OhyWrdC9Q61wtLBIeyq5N2miWfFF20A.png",
+      "image_path": "assets/jokers/077-constellation.png",
+      "source_table_index": 83,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 78,
+      "id": "hiker",
+      "rarity": "희귀",
+      "section": "6.2.17",
+      "name": "도보 여행자",
+      "name_ko": "도보 여행자",
+      "name_ko_variants": [
+        "도보 여행자"
+      ],
+      "name_en": "Hiker",
+      "cost": null,
+      "effect": "플레이해 득점한 카드에 칩 +5 개를 영구적으로 추가합니다.",
+      "unlock": null,
+      "traits": [
+        "칩 증가"
+      ],
+      "trait_text": "칩 증가",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/lSt8nOJ9CAwnyiyIu7d9WndodR6NKn1P3lvUUj_eey7grf5gWWgTBAcpCZagKsBQz82siqqEqWBwZRUECnHmaA.png",
+      "image_path": "assets/jokers/078-hiker.png",
+      "source_table_index": 84,
+      "fandom_type": "Chips"
+    },
+    {
+      "index": 79,
+      "id": "card-sharp",
+      "rarity": "희귀",
+      "section": "6.2.18",
+      "name": "야바위꾼",
+      "name_ko": "야바위꾼",
+      "name_ko_variants": [
+        "야바위꾼"
+      ],
+      "name_en": "Card Sharp",
+      "cost": null,
+      "effect": "이 라운드에서 이미 플레이된 족보를 플레이하면 ×3 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/0VHbrdtZ5e5ZW0dtlfwrSXUmKX4qLQxfLwTW4EPt6AyRdZ8L2tj7CJIvRwgP4T6z29CpAtRAzjJBogbSjvwmwg.png",
+      "image_path": "assets/jokers/079-card-sharp.png",
+      "source_table_index": 85,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 80,
+      "id": "madness",
+      "rarity": "희귀",
+      "section": "6.2.19",
+      "name": "광기",
+      "name_ko": "광기",
+      "name_ko_variants": [
+        "광기"
+      ],
+      "name_en": "Madness",
+      "cost": null,
+      "effect": "스몰 블라인드 또는 빅 블라인드를 선택할 때, ×0.5 배수를 획득하고 무작위 조커 한장을 파괴합니다.",
+      "unlock": null,
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/dcuy-o6_aWYS5r_CZHTaLEKRmxgTMS3EfNMlW7Ms3CxaBSrYDIhTzdgPfx-mtKiDMiMrvSh-6fMylSVCXf9qJg.png",
+      "image_path": "assets/jokers/080-madness.png",
+      "source_table_index": 86,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 81,
+      "id": "seance",
+      "rarity": "희귀",
+      "section": "6.2.20",
+      "name": "교령회",
+      "name_ko": "교령회",
+      "name_ko_variants": [
+        "교령회"
+      ],
+      "name_en": "Séance",
+      "cost": null,
+      "effect": "플레이한 핸드가 스트레이트 플러시일 경우 유령 카드를 생성합니다.",
+      "unlock": null,
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/baArpSh0Y5pSY63pt99vsImVNt1V4NjzqbyesR5zMObKINciQrlaZtZuubadR6F8zzCwzrw4SOf6cXCuvl49OA.webp",
+      "image_path": "assets/jokers/081-seance.webp",
+      "source_table_index": 87,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 82,
+      "id": "vampire",
+      "rarity": "희귀",
+      "section": "6.2.21",
+      "name": "뱀파이어",
+      "name_ko": "뱀파이어",
+      "name_ko_variants": [
+        "뱀파이어"
+      ],
+      "name_en": "Vampire",
+      "cost": null,
+      "effect": "플레이한 강화된 카드마다 배수 획득량이 ×0.1 증가하고 해당 카드들의 강화를 제거합니다. (기본 배수 ×1 배수)",
+      "unlock": null,
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/mg22Ehuc753p-zHPVTkI_HG_8m1AvCJtahDgbIIIRcRGB361RzwfAxVe8AgweZn5NJK4DWIaenZ2v3YqI_Tb4Q.png",
+      "image_path": "assets/jokers/082-vampire.png",
+      "source_table_index": 88,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 83,
+      "id": "shortcut",
+      "rarity": "희귀",
+      "section": "6.2.22",
+      "name": "지름길",
+      "name_ko": "지름길",
+      "name_ko_variants": [
+        "지름길"
+      ],
+      "name_en": "Shortcut",
+      "cost": null,
+      "effect": "1 랭크 간격이 있어도 스트레이트를 만들 수 있습니다. (예 : 2 3 5 7 8)",
+      "unlock": null,
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/BboNxBPqW5-vdwWKWr8UFQ-2hZ92-Odsftzl5iD14N9226d7mTkJlzAL7Tiur4QWe-r7gqxa7VXsd4zVQw8qtA.webp",
+      "image_path": "assets/jokers/083-shortcut.webp",
+      "source_table_index": 89,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 84,
+      "id": "hologram",
+      "rarity": "희귀",
+      "section": "6.2.23",
+      "name": "홀로그램",
+      "name_ko": "홀로그램",
+      "name_ko_variants": [
+        "홀로그램"
+      ],
+      "name_en": "Hologram",
+      "cost": null,
+      "effect": "덱에 추가된 플레잉 카드마다 ×0.25 배수를 획득합니다. (기본 배수 ×1 배수)",
+      "unlock": null,
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/6N8Plygr8m6pesrv64qeebMPgLXV6_IhYs_1Fz8Gw_oEQ5WYhBOaO1n6xVihhKpuscLzNdc9hzYxZilaMaPfPA.webp",
+      "image_path": "assets/jokers/084-hologram.webp",
+      "source_table_index": 90,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 85,
+      "id": "cloud-9",
+      "rarity": "희귀",
+      "section": "6.2.24",
+      "name": "클라우드 9",
+      "name_ko": "클라우드 9",
+      "name_ko_variants": [
+        "클라우드 9"
+      ],
+      "name_en": "Cloud 9",
+      "cost": null,
+      "effect": "라운드 종료 시 전체 덱에 있는 9 한 장마다 $1 를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "골드"
+      ],
+      "trait_text": "골드",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/ihZm6l_bEN8DOh_lN4GxOgVoKtwXkAexQfszMsEFsKcqU0_YoII_7j01Di34uTYuywBdO7IFn32H1Nih-Bz2VA.png",
+      "image_path": "assets/jokers/085-cloud-9.png",
+      "source_table_index": 91,
+      "fandom_type": "Economy"
+    },
+    {
+      "index": 86,
+      "id": "rocket",
+      "rarity": "희귀",
+      "section": "6.2.25",
+      "name": "로켓",
+      "name_ko": "로켓",
+      "name_ko_variants": [
+        "로켓"
+      ],
+      "name_en": "Rocket",
+      "cost": null,
+      "effect": "매 라운드 클리어 시 $1 를 받습니다. 보스 블라인드를 격파할 때마다 보상이 $2 씩 증가합니다.",
+      "unlock": null,
+      "traits": [
+        "골드"
+      ],
+      "trait_text": "골드",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/HQ5bLOq-O_bKPcWeg0SQ5eYpCH2u5n7lRyD6rGvQk-8fjVzhXFT_LcNCRJDdkuO7ToHi7s0k4IBFU5tyat0fKQ.png",
+      "image_path": "assets/jokers/086-rocket.png",
+      "source_table_index": 92,
+      "fandom_type": "Economy"
+    },
+    {
+      "index": 87,
+      "id": "midas-mask",
+      "rarity": "희귀",
+      "section": "6.2.26",
+      "name": "미다스 가면",
+      "name_ko": "미다스 가면",
+      "name_ko_variants": [
+        "미다스 가면"
+      ],
+      "name_en": "Midas Mask",
+      "cost": null,
+      "effect": "플레이한 모든 그림 카드가 황금 카드로 바뀝니다.",
+      "unlock": null,
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/c5M7uE1daa9gSntndzfHeNnCdGcrh0SVc0CxpYImC-beTpaYwsJbziOCZnnz6FGJtCzou3yfXgQZRA952QP3QQ.png",
+      "image_path": "assets/jokers/087-midas-mask.png",
+      "source_table_index": 93,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 88,
+      "id": "luchador",
+      "rarity": "희귀",
+      "section": "6.2.27",
+      "name": "루차도르",
+      "name_ko": "루차도르",
+      "name_ko_variants": [
+        "루차도르"
+      ],
+      "name_en": "Luchador",
+      "cost": null,
+      "effect": "이 카드를 판매하면 현재 보스 블라인드가 비활성화됩니다.",
+      "unlock": null,
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/eiO9mnjYidWEnIHaU7BqqokI9NKocHtPz-wxRW6wCZl6y1ivsB62fZFBI8ErUKdNkYlklw1X2JSc4pF5MnNdfg.png",
+      "image_path": "assets/jokers/088-luchador.png",
+      "source_table_index": 94,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 89,
+      "id": "gift-card",
+      "rarity": "희귀",
+      "section": "6.2.28",
+      "name": "상품권/기프트 카드",
+      "name_ko": "상품권",
+      "name_ko_variants": [
+        "상품권",
+        "기프트 카드"
+      ],
+      "name_en": "Gift Card",
+      "cost": null,
+      "effect": "라운드 종료 시 모든 조커 및 소모품 카드의 판매 가치를 $1 증가시킵니다.",
+      "unlock": null,
+      "traits": [
+        "골드"
+      ],
+      "trait_text": "골드",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/3Y8DTNq5eAiTlfuLvO-1vckxyPCX2gFstforeRhLumyT1bMMxbM2E2s1xJpvpCSQ_7RV-XprI3qA6wIm77CJqA.png",
+      "image_path": "assets/jokers/089-gift-card.png",
+      "source_table_index": 95,
+      "fandom_type": "Economy"
+    },
+    {
+      "index": 90,
+      "id": "turtle-bean",
+      "rarity": "희귀",
+      "section": "6.2.29",
+      "name": "검은콩/거북 콩",
+      "name_ko": "검은콩",
+      "name_ko_variants": [
+        "검은콩",
+        "거북 콩"
+      ],
+      "name_en": "Turtle Bean",
+      "cost": null,
+      "effect": "핸드 크기 +5 를 획득합니다. 라운드 종료 시 획득량이 1 줄어듭니다.",
+      "unlock": null,
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/3hzzU5LpVroYnOy5_z3LiQWy6MY6GTAOugwjXjdcmGM7F4vbBYdTLZrqb2_TgXErConYy8Z5tYYCCbGOgdS_9g.png",
+      "image_path": "assets/jokers/090-turtle-bean.png",
+      "source_table_index": 96,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 91,
+      "id": "erosion",
+      "rarity": "희귀",
+      "section": "6.2.30",
+      "name": "침식",
+      "name_ko": "침식",
+      "name_ko_variants": [
+        "침식"
+      ],
+      "name_en": "Erosion",
+      "cost": null,
+      "effect": "풀 덱의 숫자가 52장 미만일 경우 그 숫자만큼 +4 배수를 더합니다.",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/6IT-ksSM1wm9OkXd5MyVb_5qZVVebjKwGOkUSObRTGkCZuMKIc9eiAF0Bd9n4dVFUDoYXEyuBuAP_KIX7KlUKA.png",
+      "image_path": "assets/jokers/091-erosion.png",
+      "source_table_index": 97,
+      "fandom_type": "Additive Mult"
+    },
+    {
+      "index": 92,
+      "id": "to-the-moon",
+      "rarity": "희귀",
+      "section": "6.2.31",
+      "name": "폭등 기원/달을 향해",
+      "name_ko": "폭등 기원",
+      "name_ko_variants": [
+        "폭등 기원",
+        "달을 향해"
+      ],
+      "name_en": "To the Moon",
+      "cost": null,
+      "effect": "라운드 종료 시 보유 중인 $5 마다 추가 $1 의 이자를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "골드"
+      ],
+      "trait_text": "골드",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/AFFcJnzNUrBs_AhC7G4xl2KSBevOH0io88XeFL1nhxjeRpCdfLnN6_tAtZcA0-Ps9EAB_SkxdnxZoxvmQ7nqYw.png",
+      "image_path": "assets/jokers/092-to-the-moon.png",
+      "source_table_index": 98,
+      "fandom_type": "Economy"
+    },
+    {
+      "index": 93,
+      "id": "stone-joker",
+      "rarity": "희귀",
+      "section": "6.2.32",
+      "name": "석재 조커/스톤 조커",
+      "name_ko": "석재 조커",
+      "name_ko_variants": [
+        "석재 조커",
+        "스톤 조커"
+      ],
+      "name_en": "Stone Joker",
+      "cost": null,
+      "effect": "풀 덱에 스톤 카드가 있을 때마다 이 조커는 +25 개의 칩을 획득합니다",
+      "unlock": null,
+      "traits": [
+        "칩 증가"
+      ],
+      "trait_text": "칩 증가",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/bCy5KKSyCe82wyCsM3TffR151qmIuqcV_0e14tp6uGhMRiiqfEFhCngdrr2p4c90DLuKFkfEonuDV4phrvEF6w.png",
+      "image_path": "assets/jokers/093-stone-joker.png",
+      "source_table_index": 99,
+      "fandom_type": "Chips"
+    },
+    {
+      "index": 94,
+      "id": "lucky-cat",
+      "rarity": "희귀",
+      "section": "6.2.33",
+      "name": "행운의 고양이",
+      "name_ko": "행운의 고양이",
+      "name_ko_variants": [
+        "행운의 고양이"
+      ],
+      "name_en": "Lucky Cat",
+      "cost": null,
+      "effect": "행운 카드가 발동되면 배수 획득량이 ×0.25 증가합니다. (기본 ×1 배수)",
+      "unlock": null,
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/VY1eB0_L9C1Lv1uJcSx9hw5pSoLOyhxccRXN1IyQSgi0eX0fP4_H8e69vZgA6C1w9uki9EgjZEjUuvtdIcafBw.png",
+      "image_path": "assets/jokers/094-lucky-cat.png",
+      "source_table_index": 100,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 95,
+      "id": "bull",
+      "rarity": "희귀",
+      "section": "6.2.34",
+      "name": "황소",
+      "name_ko": "황소",
+      "name_ko_variants": [
+        "황소"
+      ],
+      "name_en": "Bull",
+      "cost": null,
+      "effect": "보유한 1달러 당 +2 개의 칩을 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "칩 증가"
+      ],
+      "trait_text": "칩 증가",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/tnVRru3VoqTkrUYAbVyQsn3gDxvzybSFRa5edITzm0cyKhPywmZRMJ0rcW757vGBMsAegP4IcBv6rwiF--B_Rg.png",
+      "image_path": "assets/jokers/095-bull.png",
+      "source_table_index": 101,
+      "fandom_type": "Chips"
+    },
+    {
+      "index": 96,
+      "id": "diet-cola",
+      "rarity": "희귀",
+      "section": "6.2.35",
+      "name": "다이어트 콜라",
+      "name_ko": "다이어트 콜라",
+      "name_ko_variants": [
+        "다이어트 콜라"
+      ],
+      "name_en": "Diet Cola",
+      "cost": null,
+      "effect": "이 카드를 판매하면 더블 태그를 생성합니다.",
+      "unlock": null,
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/3o0mLKexgCgWu5ZxJURZOUBI6GVZCHJm7hc0bOLq5-c2zzGnYisYwiSTrureNrtRT7Y8JLruWGKGFJomSwh7sg.png",
+      "image_path": "assets/jokers/096-diet-cola.png",
+      "source_table_index": 102,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 97,
+      "id": "trading-card",
+      "rarity": "희귀",
+      "section": "6.2.36",
+      "name": "트레이딩 카드",
+      "name_ko": "트레이딩 카드",
+      "name_ko_variants": [
+        "트레이딩 카드"
+      ],
+      "name_en": "Trading Card",
+      "cost": null,
+      "effect": "라운드에서 처음으로 버린 카드가 1장 뿐이라면 그 카드를 파괴하고 $3 를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "골드"
+      ],
+      "trait_text": "골드",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/kc3SK_qWFRMqkS4nx4YeoQoywKcU74QyhZcJkBJac-out8ZKy2hwpx0BsXU8k9SB0HtdEViwKu026twZ5Atxdw.webp",
+      "image_path": "assets/jokers/097-trading-card.webp",
+      "source_table_index": 103,
+      "fandom_type": "Economy"
+    },
+    {
+      "index": 98,
+      "id": "flash-card",
+      "rarity": "희귀",
+      "section": "6.2.37",
+      "name": "암기용 카드/플래시 카드",
+      "name_ko": "암기용 카드",
+      "name_ko_variants": [
+        "암기용 카드",
+        "플래시 카드"
+      ],
+      "name_en": "Flash Card",
+      "cost": null,
+      "effect": "상점에서 새로고침할 때마다 배수 획득량이 +2 증가합니다. (기본 +0 배수)",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/88dSS2PzK-ACCJ55NXS8cw4TGOPGxItfcvsOKpTNo73zDkYhqS9YG1yUjzo5cR_Sh79KB7EFmYNxyM1lM2Xtgw.png",
+      "image_path": "assets/jokers/098-flash-card.png",
+      "source_table_index": 104,
+      "fandom_type": "Additive Mult"
+    },
+    {
+      "index": 99,
+      "id": "spare-trousers",
+      "rarity": "희귀",
+      "section": "6.2.38",
+      "name": "여벌 바지",
+      "name_ko": "여벌 바지",
+      "name_ko_variants": [
+        "여벌 바지"
+      ],
+      "name_en": "Spare Trousers",
+      "cost": null,
+      "effect": "플레이한 핸드에 투 페어가 있으면 배수 획득량이 +2 증가합니다. (기본 +0 배수)",
+      "unlock": null,
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/oa_boaWFVhEYRXsCt8X7wp2yGI9AoIU18nUdZVY71H9pzJunPlyRvWeTmfEhNcugCzYVd0eKwfZmERxxUMWqpw.png",
+      "image_path": "assets/jokers/099-spare-trousers.png",
+      "source_table_index": 105,
+      "fandom_type": "Additive Mult"
+    },
+    {
+      "index": 100,
+      "id": "ramen",
+      "rarity": "희귀",
+      "section": "6.2.39",
+      "name": "라면",
+      "name_ko": "라면",
+      "name_ko_variants": [
+        "라면"
+      ],
+      "name_en": "Ramen",
+      "cost": null,
+      "effect": "×2 배수를 획득합니다. 카드를 버릴 때마다 ×0.01 배수를 잃습니다.",
+      "unlock": null,
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/ufxNnG1N7J6F0nx1c3ZKCQ8oAAqrW4F3Q9TPmWutdmYFhC6pNeULfg7mT3_qfsVL-6STdx9dG2nSs26btmkeRg.png",
+      "image_path": "assets/jokers/100-ramen.png",
+      "source_table_index": 106,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 101,
+      "id": "seltzer",
+      "rarity": "희귀",
+      "section": "6.2.40",
+      "name": "탄산수",
+      "name_ko": "탄산수",
+      "name_ko_variants": [
+        "탄산수"
+      ],
+      "name_en": "Seltzer",
+      "cost": null,
+      "effect": "다음 10번의 핸드 동안 플레이하는 모든 카드를 다시 발동합니다.",
+      "unlock": null,
+      "traits": [
+        "리트리거"
+      ],
+      "trait_text": "리트리거",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/W6Nm6-nLBjMm-ngpKz6GlszE5z8XTfxnmtr5WYGSzJts7S5hEv4Ap9VwYkzfXinZ_Sz59gNhEyI-yuxOK0EXQQ.png",
+      "image_path": "assets/jokers/101-seltzer.png",
+      "source_table_index": 107,
+      "fandom_type": "Retrigger"
+    },
+    {
+      "index": 102,
+      "id": "castle",
+      "rarity": "희귀",
+      "section": "6.2.41",
+      "name": "성",
+      "name_ko": "성",
+      "name_ko_variants": [
+        "성"
+      ],
+      "name_en": "Castle",
+      "cost": null,
+      "effect": "이 조커는 [특정 문양] 카드를 버릴 때마다 칩 획득량이 +3 개 증가합니다. 문양은 매 라운드 변경됩니다. (기본 칩 +0 개)",
+      "unlock": null,
+      "traits": [
+        "칩 증가"
+      ],
+      "trait_text": "칩 증가",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/nXQm0yXTzfSLpy5JD_N5-p9ylCuEgJqAjgH3FL2yPw0PmQFZnAEqzhCO8EkM6OnclbQ4YAUsSVOP0NLSbCRSLA.png",
+      "image_path": "assets/jokers/102-castle.png",
+      "source_table_index": 108,
+      "fandom_type": "Chips"
+    },
+    {
+      "index": 103,
+      "id": "mr-bones",
+      "rarity": "희귀",
+      "section": "6.2.42",
+      "name": "해골 아저씨/미스터 본즈",
+      "name_ko": "해골 아저씨",
+      "name_ko_variants": [
+        "해골 아저씨",
+        "미스터 본즈"
+      ],
+      "name_en": "Mr. Bones",
+      "cost": null,
+      "effect": "획득한 칩이 필요한 칩의 25% 이상인 경우 패배를 막고 스스로 파괴됩니다.",
+      "unlock": "5회 패배한다.",
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/Qdvl3d6BmGmR5zV6EIlo7nLu-sVIm2RvB6jItc61lDwQ87SivVb0pn5kIu4GX3MdIYtGvBDwF3YHnsYcsuaeGg.png",
+      "image_path": "assets/jokers/103-mr-bones.png",
+      "source_table_index": 109,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 104,
+      "id": "acrobat",
+      "rarity": "희귀",
+      "section": "6.2.43",
+      "name": "곡예사",
+      "name_ko": "곡예사",
+      "name_ko_variants": [
+        "곡예사"
+      ],
+      "name_en": "Acrobat",
+      "cost": null,
+      "effect": "라운드의 마지막 핸드일 경우 ×3 배수를 획득합니다.",
+      "unlock": "200 핸드를 플레이한다.",
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/SZbLkjZHTKGuZkNEU3mdP0mn-ek_3HV1eLkjYA_cXW2dgDopwKvKlktz0j78UCZvY1vnPkg3VINKeojEMdbo1Q.png",
+      "image_path": "assets/jokers/104-acrobat.png",
+      "source_table_index": 110,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 105,
+      "id": "sock-and-buskin",
+      "rarity": "희귀",
+      "section": "6.2.44",
+      "name": "희극과 비극",
+      "name_ko": "희극과 비극",
+      "name_ko_variants": [
+        "희극과 비극"
+      ],
+      "name_en": "Sock and Buskin",
+      "cost": null,
+      "effect": "플레이한 모든 그림 카드를 다시 발동합니다.",
+      "unlock": "그림 카드를 300번 플레이한다.",
+      "traits": [
+        "리트리거"
+      ],
+      "trait_text": "리트리거",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/g6bFShiU_BSSBXFfjaXIqrHC2-o01FqoHVjz-TD73cyDiaIJKk27IePN8WOqbKPtI5ZFOYABkrXxHAqAsJtHZA.png",
+      "image_path": "assets/jokers/105-sock-and-buskin.png",
+      "source_table_index": 111,
+      "fandom_type": "Retrigger"
+    },
+    {
+      "index": 106,
+      "id": "troubadour",
+      "rarity": "희귀",
+      "section": "6.2.45",
+      "name": "음유시인",
+      "name_ko": "음유시인",
+      "name_ko_variants": [
+        "음유시인"
+      ],
+      "name_en": "Troubadour",
+      "cost": null,
+      "effect": "핸드 크기 +2 . 라운드별 핸드 -1 번.",
+      "unlock": "5라운드 연속으로 한 번의 핸드만으로 승리한다.",
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/JzopPAkfWH5qCONqMQ2ZD_RGRDzjgi7PTNVqYWe3r-DK9xXwdh1ToNHkzsI10bFGw2uaCgK_XaHpsxtIXf5zsQ.png",
+      "image_path": "assets/jokers/106-troubadour.png",
+      "source_table_index": 112,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 107,
+      "id": "certification",
+      "rarity": "희귀",
+      "section": "6.2.46",
+      "name": "증명서",
+      "name_ko": "증명서",
+      "name_ko_variants": [
+        "증명서"
+      ],
+      "name_en": "Certification",
+      "cost": null,
+      "effect": "라운드 시작 시 무작위 인장을 지닌 무작위 플레잉 카드를 핸드에 추가합니다.",
+      "unlock": "골드 봉인이 들어간 골드 카드를 보유한다.",
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/s82dHNWjArEJfW7v99jKQxmFLxNX0yi2FBkhIXX--981TGd7UdARDchIuvb_vOG2bySBc29AY5pmJAwsHcjKMw.png",
+      "image_path": "assets/jokers/107-certification.png",
+      "source_table_index": 113,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 108,
+      "id": "smeared-joker",
+      "rarity": "희귀",
+      "section": "6.2.47",
+      "name": "문질러진 조커/얼룩진 조커",
+      "name_ko": "문질러진 조커",
+      "name_ko_variants": [
+        "문질러진 조커",
+        "얼룩진 조커"
+      ],
+      "name_en": "Smeared Joker",
+      "cost": null,
+      "effect": "클로버와 스페이드, 하트와 다이아몬드를 각각 같은 문양으로 취급합니다.",
+      "unlock": "덱에 최소 3장의 와일드 카드를 보유한다.",
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/DHUcfqfzGk5bnKdt4GVg3Pp3HoYsaqz52VKbTGFrplTfJNe7WJi_UyL5PLb4Q_808bFC-c607EGqUHj2auPclA.png",
+      "image_path": "assets/jokers/108-smeared-joker.png",
+      "source_table_index": 114,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 109,
+      "id": "throwback",
+      "rarity": "희귀",
+      "section": "6.2.48",
+      "name": "회상/회귀",
+      "name_ko": "회상",
+      "name_ko_variants": [
+        "회상",
+        "회귀"
+      ],
+      "name_en": "Throwback",
+      "cost": null,
+      "effect": "이 런에서 건너뛴 블라인드마다 ×0.25 배수를 획득합니다. (기본 ×1 배수)",
+      "unlock": "메뉴에서 이전 런을 컨티뉴한다.",
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/hzKs2tcmAGVHhtVMY2BdDuEtMPwNYiYZzltzoo-W02RJEpfvOaX4Dup516DujjnxkGF8w4_r97TCg6Lf2xd6Dg.png",
+      "image_path": "assets/jokers/109-throwback.png",
+      "source_table_index": 115,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 110,
+      "id": "rough-gem",
+      "rarity": "희귀",
+      "section": "6.2.49",
+      "name": "원석",
+      "name_ko": "원석",
+      "name_ko_variants": [
+        "원석"
+      ],
+      "name_en": "Rough Gem",
+      "cost": null,
+      "effect": "다이아몬드 카드를 플레이 했을 경우 카드마다 $1 를 획득합니다.",
+      "unlock": "덱에 30장 이상의 다이아몬드 카드를 보유한다. [68]",
+      "traits": [
+        "골드"
+      ],
+      "trait_text": "골드",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/9gaNeJixkd_cMbk6K38zFqrZC8oI0vPGmZntiqGxBqvO6EY1H1UhOmOg4EShSJNNc7O9NmO1KwRIdIpZ8StlJA.png",
+      "image_path": "assets/jokers/110-rough-gem.png",
+      "source_table_index": 116,
+      "fandom_type": "Economy"
+    },
+    {
+      "index": 111,
+      "id": "bloodstone",
+      "rarity": "희귀",
+      "section": "6.2.50",
+      "name": "혈석",
+      "name_ko": "혈석",
+      "name_ko_variants": [
+        "혈석"
+      ],
+      "name_en": "Bloodstone",
+      "cost": null,
+      "effect": "하트 카드를 플레이 했을 경우 카드마다 1/2 확률로 ×1.5 배수를 획득합니다.",
+      "unlock": "덱에 30장 이상의 하트 카드를 보유한다. [69]",
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/z_7jkhm7F_RmRVtEnOSFK0MspkI8WpyGrOepTs9BYcKUHQrR0uSCRYkQgWEyTpNHdcS86ft0cacPUkttk8wK8w.png",
+      "image_path": "assets/jokers/111-bloodstone.png",
+      "source_table_index": 117,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 112,
+      "id": "arrowhead",
+      "rarity": "희귀",
+      "section": "6.2.51",
+      "name": "화살촉",
+      "name_ko": "화살촉",
+      "name_ko_variants": [
+        "화살촉"
+      ],
+      "name_en": "Arrowhead",
+      "cost": null,
+      "effect": "스페이드 수트의 카드를 플레이할 때마다 득점 시 +50 개의 칩",
+      "unlock": "덱에 30장 이상의 스페이드 카드를 보유한다. [70]",
+      "traits": [
+        "칩 증가"
+      ],
+      "trait_text": "칩 증가",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/71FmjTsliOZjmbQLJvC0nRwo-YA3p7EsKyK1fFMykTFbrRRuQWyqORrj1w2L4cKma_QAywxJ_3-NP-bgPzOyrQ.png",
+      "image_path": "assets/jokers/112-arrowhead.png",
+      "source_table_index": 118,
+      "fandom_type": "Chips"
+    },
+    {
+      "index": 113,
+      "id": "onyx-agate",
+      "rarity": "희귀",
+      "section": "6.2.52",
+      "name": "흑마노/오닉스 아게이트",
+      "name_ko": "흑마노",
+      "name_ko_variants": [
+        "흑마노",
+        "오닉스 아게이트"
+      ],
+      "name_en": "Onyx Agate",
+      "cost": null,
+      "effect": "클럽 문양 카드를 플레이해 득점할 때마다 +7 배수를 획득합니다.",
+      "unlock": "덱에 30장 이상의 클럽 카드를 보유한다. [72]",
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/gb4reHclQSagyy_wn3pUsAgvquKx_bpRgwiMjDqZTQXBEsS2CW5gpwWzzB-5Fb3punK5ATzqrWTjsZ-BqswyMg.png",
+      "image_path": "assets/jokers/113-onyx-agate.png",
+      "source_table_index": 119,
+      "fandom_type": "Additive Mult"
+    },
+    {
+      "index": 114,
+      "id": "glass-joker",
+      "rarity": "희귀",
+      "section": "6.2.53",
+      "name": "유리 조커/글래스 조커",
+      "name_ko": "유리 조커",
+      "name_ko_variants": [
+        "유리 조커",
+        "글래스 조커"
+      ],
+      "name_en": "Glass Joker",
+      "cost": null,
+      "effect": "파괴된 유리 카드 1장당 ×0.75 배수를 획득합니다.",
+      "unlock": "덱에 5장 이상의 유리 카드를 보유한다.",
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/en7fx89YU1ca9sLvMuhdl6Ew6Rs3mXHcC-BJ-u45_05kOhdU4MK5kHxg3JYr1xnYvrsO5r71QA0vvXijdoMzVw.png",
+      "image_path": "assets/jokers/114-glass-joker.png",
+      "source_table_index": 120,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 115,
+      "id": "showman",
+      "rarity": "희귀",
+      "section": "6.2.54",
+      "name": "쇼맨/링 마스터",
+      "name_ko": "쇼맨",
+      "name_ko_variants": [
+        "쇼맨",
+        "링 마스터"
+      ],
+      "name_en": "Showman",
+      "cost": null,
+      "effect": "조커, 타로, 행성, 유령 카드가 여러 번 나타날 수 있습니다.",
+      "unlock": "앤티 4에 도달한다.",
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/1EyyslUSe2MdTSwCWd7FOCwGRDhAnPZ6lncB2U1yXfeIhMKxtWFepuolhT6YhHQiNFqmUPP6s34QbW37WalF5w.png",
+      "image_path": "assets/jokers/115-showman.png",
+      "source_table_index": 121,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 116,
+      "id": "flower-pot",
+      "rarity": "희귀",
+      "section": "6.2.55",
+      "name": "화분",
+      "name_ko": "화분",
+      "name_ko_variants": [
+        "화분"
+      ],
+      "name_en": "Flower Pot",
+      "cost": null,
+      "effect": "다이아몬드 카드, 클럽 카드, 하트 카드, 스페이드 카드를 모두 플레이해 득점하면 ×3 배수를 획득합니다.",
+      "unlock": "앤티 8에 도달한다.",
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/UjD533TcvBtEqkUaS66dzmK00OTQjT1UmTZPjaskJ8H5idaHDpb6FqJDIieI4yjmfGXm1AWlp3iKkwElsQdtsQ.png",
+      "image_path": "assets/jokers/116-flower-pot.png",
+      "source_table_index": 122,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 117,
+      "id": "merry-andy",
+      "rarity": "희귀",
+      "section": "6.2.56",
+      "name": "즐거운 앤디",
+      "name_ko": "즐거운 앤디",
+      "name_ko_variants": [
+        "즐거운 앤디"
+      ],
+      "name_en": "Merry Andy",
+      "cost": null,
+      "effect": "+3 버리기, -1 핸드 크기",
+      "unlock": "12라운드 이하로 게임을 클리어한다.",
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/6qJYPAuip7TnzwP3L9tT0MiQLvOJw3FidqUBgcl8E7nvE1tPKUjqft_6L2H-dZMFdqvqzaSBKzRfoQvIp_WtGg.png",
+      "image_path": "assets/jokers/117-merry-andy.png",
+      "source_table_index": 123,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 118,
+      "id": "oops-all-6s",
+      "rarity": "희귀",
+      "section": "6.2.57",
+      "name": "이런, 모두 6이야!",
+      "name_ko": "이런, 모두 6이야!",
+      "name_ko_variants": [
+        "이런, 모두 6이야!"
+      ],
+      "name_en": "Oops! All 6s",
+      "cost": null,
+      "effect": "표시되는 모든 확률을 두 배 증가시킵니다. (예 : 1/3 -> 2/3 )",
+      "unlock": "1회의 핸드에 1만 점 이상의 점수를 따낸다.",
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/13HsNOB_kMnTzq5Thxa7eb-ReoE9EkCTPLkqNSKrKGDA_S4STPAdMmI3kjzjoIhFwyl5JiMWbhNoy6U6qjpzfA.png",
+      "image_path": "assets/jokers/118-oops-all-6s.png",
+      "source_table_index": 124,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 119,
+      "id": "the-idol",
+      "rarity": "희귀",
+      "section": "6.2.58",
+      "name": "우상",
+      "name_ko": "우상",
+      "name_ko_variants": [
+        "우상"
+      ],
+      "name_en": "The Idol",
+      "cost": null,
+      "effect": "[특정 플레잉 카드] 카드를 플레이해 득점할 때마다 ×2 배수를 획득합니다. 카드는 매 라운드 변경됩니다.",
+      "unlock": "1회의 핸드에 100만 점 이상의 점수를 따낸다. [75]",
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/pTB4hvciPz0IAcgHzQuEJzZohRymH6hYRdmZ9y1IN5s7OaUcxNEz-Pb6Upe9dZu5gbreL_xFYQslIAFJh8zvBw.png",
+      "image_path": "assets/jokers/119-the-idol.png",
+      "source_table_index": 125,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 120,
+      "id": "seeing-double",
+      "rarity": "희귀",
+      "section": "6.2.59",
+      "name": "이중시/둘로 보기",
+      "name_ko": "이중시",
+      "name_ko_variants": [
+        "이중시",
+        "둘로 보기"
+      ],
+      "name_en": "Seeing Double",
+      "cost": null,
+      "effect": "플레이한 핸드에서 클럽 카드와 다른 아무 무늬의 카드가 득점 했을 때 ×2 배수를 획득",
+      "unlock": "4장 이상의 클럽 7이 들어간 핸드를 플레이한다.",
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/9gG1nQErZzMl8GEFIgjGbgzvF5zK1znnRB75d2TevqthwFp9Lnniy3WR8nsxuVy70tuPDAu4tCEaFh1SR79PcA.png",
+      "image_path": "assets/jokers/120-seeing-double.png",
+      "source_table_index": 126,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 121,
+      "id": "matador",
+      "rarity": "희귀",
+      "section": "6.2.60",
+      "name": "투우사",
+      "name_ko": "투우사",
+      "name_ko_variants": [
+        "투우사"
+      ],
+      "name_en": "Matador",
+      "cost": null,
+      "effect": "플레이한 핸드가 보스 블라인드 능력을 발동하면 $8 을 획득합니다.",
+      "unlock": "카드를 버리지 않고 한 번의 핸드로 보스 블라인드를 격파한다.",
+      "traits": [
+        "골드"
+      ],
+      "trait_text": "골드",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/60M_ZmJsyDGHpGsCMaPyFF5cA_HCtPpB5SWRMyzwTisZHHwHmroPzHzMS_h-7DUUOIVtBnNy7PVUhlIrW3HLgQ.png",
+      "image_path": "assets/jokers/121-matador.png",
+      "source_table_index": 127,
+      "fandom_type": "Economy"
+    },
+    {
+      "index": 122,
+      "id": "satellite",
+      "rarity": "희귀",
+      "section": "6.2.61",
+      "name": "인공위성",
+      "name_ko": "인공위성",
+      "name_ko_variants": [
+        "인공위성"
+      ],
+      "name_en": "Satellite",
+      "cost": null,
+      "effect": "이번 런에서 사용된 모든 고유 행성 카드에 대해 라운드가 끝나면 $1 를 획득합니다",
+      "unlock": "$400 이상의 돈을 가진다.",
+      "traits": [
+        "골드"
+      ],
+      "trait_text": "골드",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/p36fFRs8LDSRzQ8WHUNV9-_7hxZJmemjG6EzhfSIfpH1e0SmdVlLMs8qCTOLkwC0F9tSmsv5lNWzvgonLxLgFw.png",
+      "image_path": "assets/jokers/122-satellite.png",
+      "source_table_index": 128,
+      "fandom_type": "Economy"
+    },
+    {
+      "index": 123,
+      "id": "cartomancer",
+      "rarity": "희귀",
+      "section": "6.2.62",
+      "name": "카드 점술가/카토맨서",
+      "name_ko": "카드 점술가",
+      "name_ko_variants": [
+        "카드 점술가",
+        "카토맨서"
+      ],
+      "name_en": "Cartomancer",
+      "cost": null,
+      "effect": "블라인드를 선택하면 타로 카드를 생성합니다. (공간이 있어야 합니다.)",
+      "unlock": "모든 타로 카드를 발견한다.",
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/baDOC65v73zknGwcJuPOyp1ZiEx2tWUTkPSofypR2lC8O72sARqBEookvBKj7j6Su900Bd7674plyQjXU-qDAQ.png",
+      "image_path": "assets/jokers/123-cartomancer.png",
+      "source_table_index": 129,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 124,
+      "id": "astronomer",
+      "rarity": "희귀",
+      "section": "6.2.63",
+      "name": "천문학자",
+      "name_ko": "천문학자",
+      "name_ko_variants": [
+        "천문학자"
+      ],
+      "name_en": "Astronomer",
+      "cost": null,
+      "effect": "모든 행성 카드와 천체 팩이 무료",
+      "unlock": "모든 행성 카드를 발견한다.",
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/0hhM5djELNAo0mOhrFoW4dDFElTPnaicxdUJ6InKUFz4KSY13Z21clgzJZw6C1ZeFR7noos-1YOvAdcepgt5mw.png",
+      "image_path": "assets/jokers/124-astronomer.png",
+      "source_table_index": 130,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 125,
+      "id": "bootstrap",
+      "rarity": "희귀",
+      "section": "6.2.64",
+      "name": "자수성가/자력",
+      "name_ko": "자수성가",
+      "name_ko_variants": [
+        "자수성가",
+        "자력"
+      ],
+      "name_en": "Bootstrap",
+      "cost": null,
+      "effect": "보유한 $5 마다 +2 배수",
+      "unlock": "폴리크롬 조커를 2개 이상 보유한다. [80]",
+      "traits": [
+        "합배수"
+      ],
+      "trait_text": "합배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/nIapHPjuTEKjzYsSDl_GWVYtoe7RTGkw4GL4u-HYyFXSRNX_Q0q2huTywAW8gEOm2CxVtkSnkr0TpvmcaSNKdw.png",
+      "image_path": "assets/jokers/125-bootstrap.png",
+      "source_table_index": 131,
+      "fandom_type": "Additive Mult"
+    },
+    {
+      "index": 126,
+      "id": "dna",
+      "rarity": "레어",
+      "section": "6.3.1",
+      "name": "DNA",
+      "name_ko": "DNA",
+      "name_ko_variants": [
+        "DNA"
+      ],
+      "name_en": null,
+      "cost": null,
+      "effect": "라운드의 첫 핸드가 카드 1장이라면 그 카드를 복사해 덱에 영구적으로 추가하고 해당 복사본을 핸드로 가져옵니다.",
+      "unlock": null,
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/6Ode62wm_YkP_jDzjVChiPUvbGEBRNzrWY19rzwN5s8JQNugpHwC4GKGPFaBpb9P9EyZIOHBteqBgmREcAafAQ.png",
+      "image_path": "assets/jokers/126-dna.png",
+      "source_table_index": 132,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 127,
+      "id": "vagabond",
+      "rarity": "레어",
+      "section": "6.3.2",
+      "name": "방랑자",
+      "name_ko": "방랑자",
+      "name_ko_variants": [
+        "방랑자"
+      ],
+      "name_en": "Vagabond",
+      "cost": null,
+      "effect": "$4 이하일 때 핸드를 플레이하면 타로 카드를 생성합니다.",
+      "unlock": null,
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/ESurGmKaqu30_0Y5SnKzkrcosNGKWJhWzp2KT3QwiP7rCff2zrFsaAhEBg-zLtBGYVRaO5LbnXK6bs7W7y4K4A.png",
+      "image_path": "assets/jokers/127-vagabond.png",
+      "source_table_index": 133,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 128,
+      "id": "baron",
+      "rarity": "레어",
+      "section": "6.3.3",
+      "name": "남작",
+      "name_ko": "남작",
+      "name_ko_variants": [
+        "남작"
+      ],
+      "name_en": "Baron",
+      "cost": null,
+      "effect": "핸드에 남아 있는 킹마다 ×1.5 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/BSNRRkYcksUftKBdvbohc5s2rKI-LjATjLAoJm3wFCH9bSjWgFi8TJL3jB3SwgifTuAx9DKBfec3S_5Gsgrbfw.png",
+      "image_path": "assets/jokers/128-baron.png",
+      "source_table_index": 134,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 129,
+      "id": "obelisk",
+      "rarity": "레어",
+      "section": "6.3.4",
+      "name": "오벨리스크",
+      "name_ko": "오벨리스크",
+      "name_ko_variants": [
+        "오벨리스크"
+      ],
+      "name_en": "Obelisk",
+      "cost": null,
+      "effect": "가장 많이 플레이한 족보를 사용하지 않고 연속으로 플레이한 핸드마다 ×0.2 배수를 획득합니다. (기본 ×1 배수)",
+      "unlock": null,
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/w5BBso92TlZ7xU_rNW3orOCpKyM-mRycv4kiiFJtmrYCrPvx_tz_pgyujf6wYHXWZburlNXPrxXYLrLW_5KsIw.webp",
+      "image_path": "assets/jokers/129-obelisk.webp",
+      "source_table_index": 135,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 130,
+      "id": "baseball-card",
+      "rarity": "레어",
+      "section": "6.3.5",
+      "name": "야구 카드",
+      "name_ko": "야구 카드",
+      "name_ko_variants": [
+        "야구 카드"
+      ],
+      "name_en": "Baseball Card",
+      "cost": null,
+      "effect": "각 희귀 조커마다 ×1.5 배수를 획득합니다.",
+      "unlock": null,
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/d3b8xSEKKHqnSFlfqaUGoU3zOKPSLIWjoELc549nXyEh2_DWomBv74CKqoYntUHbZVzMho4aFAT7cHYmRrLz4g.png",
+      "image_path": "assets/jokers/130-baseball-card.png",
+      "source_table_index": 136,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 131,
+      "id": "ancient-joker",
+      "rarity": "레어",
+      "section": "6.3.6",
+      "name": "고대 조커",
+      "name_ko": "고대 조커",
+      "name_ko_variants": [
+        "고대 조커"
+      ],
+      "name_en": "Ancient Joker",
+      "cost": null,
+      "effect": "[특정 문양] 문양 카드를 플레이해 득점할 때마다 ×1.5 배수를 획득합니다. 라운드 종료 시 문양이 변경됩니다.",
+      "unlock": null,
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/hNuaOF6pFkfeWYn1QreBd14Hg13MK68_nY_4XH0_br7yCJg9IESRVTCa3DF4paGcHmLUojoU_SYgF7R8IsRL1A.png",
+      "image_path": "assets/jokers/131-ancient-joker.png",
+      "source_table_index": 137,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 132,
+      "id": "campfire",
+      "rarity": "레어",
+      "section": "6.3.7",
+      "name": "캠프파이어",
+      "name_ko": "캠프파이어",
+      "name_ko_variants": [
+        "캠프파이어"
+      ],
+      "name_en": "Campfire",
+      "cost": null,
+      "effect": "이 조커는 카드가 팔릴 때마다 배수 획득량이 ×0.25 증가하며 보스 블라인드에 승리하면 초기화됩니다. (기본 ×1 배수)",
+      "unlock": null,
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/sJEOex8gnuV6Za6fIUVuo2ZA39kQ2CJ30Z9BV8LR77AtnDRuIsTpU8BP_yOOjOiezxOonD-grR74gi5qWcaLJQ.webp",
+      "image_path": "assets/jokers/132-campfire.webp",
+      "source_table_index": 138,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 133,
+      "id": "blueprint",
+      "rarity": "레어",
+      "section": "6.3.8",
+      "name": "청사진",
+      "name_ko": "청사진",
+      "name_ko_variants": [
+        "청사진"
+      ],
+      "name_en": "Blueprint",
+      "cost": null,
+      "effect": "오른쪽 조커의 능력을 복사합니다.",
+      "unlock": "게임에서 승리한다.",
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/ROmoKiQ9byjZveaQuB3BlETE81ZCFhCh2V2UqM_7VVa57wIbD_CuzIiHMHDmJ893SRceMZX31wXZVMEY--FuaQ.png",
+      "image_path": "assets/jokers/133-blueprint.png",
+      "source_table_index": 139,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 134,
+      "id": "wee-joker",
+      "rarity": "레어",
+      "section": "6.3.9",
+      "name": "조그마한 조커/아주 작은 조커",
+      "name_ko": "조그마한 조커",
+      "name_ko_variants": [
+        "조그마한 조커",
+        "아주 작은 조커"
+      ],
+      "name_en": "Wee Joker",
+      "cost": null,
+      "effect": "이 조커는 2를 플레이해 득점할 때마다 칩 획득량이 +8 개 증가합니다. (기본 칩 +0 )",
+      "unlock": "18라운드 이하로 게임에서 승리한다.",
+      "traits": [
+        "칩 증가"
+      ],
+      "trait_text": "칩 증가",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/5jqMTGH9ivgxMOMtZdKQZ4CSYpDbQNMWGBDQCxgHVzPBpgczXqghpyFqcos5lTfDmwWZ8kyw0-q0WtyOBH_WtQ.webp",
+      "image_path": "assets/jokers/134-wee-joker.webp",
+      "source_table_index": 140,
+      "fandom_type": "Chips"
+    },
+    {
+      "index": 135,
+      "id": "hit-the-road",
+      "rarity": "레어",
+      "section": "6.3.10",
+      "name": "여행 출발",
+      "name_ko": "여행 출발",
+      "name_ko_variants": [
+        "여행 출발"
+      ],
+      "name_en": "Hit the Road",
+      "cost": null,
+      "effect": "이번 라운드에서 잭을 버릴 때마다 ×0.5 배수를 획득합니다",
+      "unlock": "한 번에 잭을 5장 버린다.",
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/fW7lTF_Y517TGbjvWA5rZTtp1yO2YMJRTMhETIMYDZJKa2JAgNZDNWE5rNEpiknfKp-mjzKOIU83UxSFPqle0Q.png",
+      "image_path": "assets/jokers/135-hit-the-road.png",
+      "source_table_index": 141,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 136,
+      "id": "the-duo",
+      "rarity": "레어",
+      "section": "6.3.11",
+      "name": "듀오",
+      "name_ko": "듀오",
+      "name_ko_variants": [
+        "듀오"
+      ],
+      "name_en": "The Duo",
+      "cost": null,
+      "effect": "플레이한 핸드가 페어 포함 시 ×2 배수를 획득합니다.",
+      "unlock": "페어를 사용하지 않고 게임에서 승리하기",
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/Js51iUFoypJd-gziB-TwEcKsO7zJ4hz8LV9WHTMiEmjSjMtxlBhx9tClcKXTbI12rNMx0fo2S2ZBK5GR2mi9Kw.png",
+      "image_path": "assets/jokers/136-the-duo.png",
+      "source_table_index": 142,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 137,
+      "id": "the-trio",
+      "rarity": "레어",
+      "section": "6.3.12",
+      "name": "트리오",
+      "name_ko": "트리오",
+      "name_ko_variants": [
+        "트리오"
+      ],
+      "name_en": "The Trio",
+      "cost": null,
+      "effect": "플레이한 핸드가 트리플 포함 시 ×3 배수를 획득합니다.",
+      "unlock": "트리플을 사용하지 않고 게임에서 승리하기",
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/5yQH5yowxAc_o4AmA_wtXNycRlcqCnU_iSssrhUugARwWYaaSoZlDJqVC62WUc0fieI0kY9Sr-X-_65VO_N0FA.png",
+      "image_path": "assets/jokers/137-the-trio.png",
+      "source_table_index": 143,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 138,
+      "id": "the-family",
+      "rarity": "레어",
+      "section": "6.3.13",
+      "name": "가족",
+      "name_ko": "가족",
+      "name_ko_variants": [
+        "가족"
+      ],
+      "name_en": "The Family",
+      "cost": null,
+      "effect": "플레이한 핸드가 포 카드 포함 시 ×4 배수를 획득합니다.",
+      "unlock": "포 카드를 사용하지 않고 게임에서 승리하기",
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/_B9qUAo6sWWPhO1uffKil3uLl_PlaDGcbMDTs1ndutEuPUBBB9IenjEI3-VlDY4J0xZGWB4BmYQ94s4FEMDjkg.png",
+      "image_path": "assets/jokers/138-the-family.png",
+      "source_table_index": 144,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 139,
+      "id": "the-order",
+      "rarity": "레어",
+      "section": "6.3.14",
+      "name": "결사단/지시",
+      "name_ko": "결사단",
+      "name_ko_variants": [
+        "결사단",
+        "지시"
+      ],
+      "name_en": "The Order",
+      "cost": null,
+      "effect": "플레이한 핸드에 스트레이트 포함 시 ×3 배수를 획득합니다.",
+      "unlock": "스트레이트를 사용하지 않고 게임에서 승리",
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/Zq1-y_U_2kQM2Y8npFLOnn4GjEFTgbt7pHLLMDvVhgbX8BRYBQOR0ZgzXcmkE5kRCJlJUCOdpMLJz9YjjB-tPQ.png",
+      "image_path": "assets/jokers/139-the-order.png",
+      "source_table_index": 145,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 140,
+      "id": "the-tribe",
+      "rarity": "레어",
+      "section": "6.3.15",
+      "name": "패거리",
+      "name_ko": "패거리",
+      "name_ko_variants": [
+        "패거리"
+      ],
+      "name_en": "The Tribe",
+      "cost": null,
+      "effect": "플레이한 핸드에 플러시 포함 시 ×2 배수를 획득합니다.",
+      "unlock": "플러시를 사용하지 않고 게임에서 승리",
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/AuClKYOn40u-Vp-W1TEs2ZslqH_laECuqMpGXTpcEXInAgUKxQIHztYFv98gSU6EkXoR8NpjyN9VQRE8RECqMA.png",
+      "image_path": "assets/jokers/140-the-tribe.png",
+      "source_table_index": 146,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 141,
+      "id": "stuntman",
+      "rarity": "레어",
+      "section": "6.3.16",
+      "name": "스턴트맨",
+      "name_ko": "스턴트맨",
+      "name_ko_variants": [
+        "스턴트맨"
+      ],
+      "name_en": "Stuntman",
+      "cost": null,
+      "effect": "칩 +250 개, 핸드 크기 -2",
+      "unlock": "1회의 핸드에 1억 점 이상의 점수를 따낸다. [83]",
+      "traits": [
+        "칩 증가"
+      ],
+      "trait_text": "칩 증가",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/08CONpVskkd2k-ZXa7oZgi96TUOQvvLPMhN24jDq8S4QIaKKXU2Ostb9vik1OElZAKJaozCq5kXwFrW0so5-fA.png",
+      "image_path": "assets/jokers/141-stuntman.png",
+      "source_table_index": 147,
+      "fandom_type": "Chips"
+    },
+    {
+      "index": 142,
+      "id": "invisible-joker",
+      "rarity": "레어",
+      "section": "6.3.17",
+      "name": "투명 조커",
+      "name_ko": "투명 조커",
+      "name_ko_variants": [
+        "투명 조커"
+      ],
+      "name_en": "Invisible Joker",
+      "cost": null,
+      "effect": "2번의 라운드를 진행한 후에, 이 카드를 팔아 무작위 조커를 복사합니다. (네거티브는 제거됨)",
+      "unlock": "조커를 5장 이상 가지지 않고 승리한다.",
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/cnDRlim02Krba0agQswxXemn0tAYRD2KPHANsNxRcaT2noqEyN3T6GJkoeZ95IqUnVTkIx8Favt4gFq56IX9eQ.png",
+      "image_path": "assets/jokers/142-invisible-joker.png",
+      "source_table_index": 148,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 143,
+      "id": "brainstorm",
+      "rarity": "레어",
+      "section": "6.3.18",
+      "name": "브레인스토밍",
+      "name_ko": "브레인스토밍",
+      "name_ko_variants": [
+        "브레인스토밍"
+      ],
+      "name_en": "Brainstorm",
+      "cost": null,
+      "effect": "맨 왼쪽에 있는 카드의 능력을 복사합니다.",
+      "unlock": "로열 플러시 [84] 를 버린다.",
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/SVXBagVv4vpN4OMmqD0SEWDI5K3a5lNcwKKDW9voOdV8Z4LzSD6PJQDPCEbGQfHoP6m2VKPt0srLFKj0PBSIbg.png",
+      "image_path": "assets/jokers/143-brainstorm.png",
+      "source_table_index": 149,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 144,
+      "id": "driver-s-license",
+      "rarity": "레어",
+      "section": "6.3.19",
+      "name": "운전면허증",
+      "name_ko": "운전면허증",
+      "name_ko_variants": [
+        "운전면허증"
+      ],
+      "name_en": "Driver's License",
+      "cost": null,
+      "effect": "강화된 카드를 16장 이상 보유한 경우 ×3 배수를 획득합니다.",
+      "unlock": "덱에 16장 이상의 강화된 카드를 보유한다.",
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/TQmJr2CLBgjmi1gARUSDyx2iP3WHWDIQqQsm558mFcK-bMaR3V3KB6tYV3yuglQUU6lYcu7I8w2H8T-ljvw2Fw.png",
+      "image_path": "assets/jokers/144-driver-s-license.png",
+      "source_table_index": 150,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 145,
+      "id": "burnt-joker",
+      "rarity": "레어",
+      "section": "6.3.20",
+      "name": "타버린 조커",
+      "name_ko": "타버린 조커",
+      "name_ko_variants": [
+        "타버린 조커"
+      ],
+      "name_en": "Burnt Joker",
+      "cost": null,
+      "effect": "매 라운드의 첫 번째 버리기에서 버려진 카드에 맞는 포커 족보의 레벨을 1 올린다.",
+      "unlock": "50 카드를 판다",
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/igC4L0eE1SLT_j-706Mf_gXp38QTkNUY6IfTLVaNTyNJ9LaXO-uG0ZEigq4iuu-zaxzdwPCbjs-yH4ZTKEibug.png",
+      "image_path": "assets/jokers/145-burnt-joker.png",
+      "source_table_index": 151,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 146,
+      "id": "canio",
+      "rarity": "전설",
+      "section": "6.4.1",
+      "name": "카니오",
+      "name_ko": "카니오",
+      "name_ko_variants": [
+        "카니오"
+      ],
+      "name_en": "Canio",
+      "cost": null,
+      "effect": "그림 카드를 파괴할 때마다 ×1 배수 증가.",
+      "unlock": "영혼 카드로 무작위 획득",
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/tAeeSq7lOubETTBINPFwFU0nFK2xle1HvM-o7gDuvdgTn8fvk3jVvzd3dLjUVSo11HQHj-Ee2EAoUJwscNLbhA.png",
+      "image_path": "assets/jokers/146-canio.png",
+      "source_table_index": 152,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 147,
+      "id": "triboulet",
+      "rarity": "전설",
+      "section": "6.4.2",
+      "name": "트리불레",
+      "name_ko": "트리불레",
+      "name_ko_variants": [
+        "트리불레"
+      ],
+      "name_en": "Triboulet",
+      "cost": null,
+      "effect": "플레이한 킹과 퀸이 각각 ×2 배수 증가.",
+      "unlock": "영혼 카드로 무작위 획득",
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/f_9uzdKhHs2h8HJfUhdmpDvvM2XHYyia00kmyBOYThX4eSY4TZzcu0ajDOekOZbvRlcfeRSrljNXbFmji7LxYg.png",
+      "image_path": "assets/jokers/147-triboulet.png",
+      "source_table_index": 153,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 148,
+      "id": "yorick",
+      "rarity": "전설",
+      "section": "6.4.3",
+      "name": "요릭",
+      "name_ko": "요릭",
+      "name_ko_variants": [
+        "요릭"
+      ],
+      "name_en": "Yorick",
+      "cost": null,
+      "effect": "23장의 카드를 버린 후 ×1 배수 증가. (기본 배수 : ×1 )",
+      "unlock": "영혼 카드로 무작위 획득",
+      "traits": [
+        "곱배수"
+      ],
+      "trait_text": "곱배수",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/G-FMcpi-rcmWqbHwFhU1Da2MKBnmXGvOgR49tYrUjygaBPbh1Ph4xIfQ-6yPByl6B06Pevh8OkzT_usB1XlCRg.png",
+      "image_path": "assets/jokers/148-yorick.png",
+      "source_table_index": 154,
+      "fandom_type": "Multiplicative Mult"
+    },
+    {
+      "index": 149,
+      "id": "chicot",
+      "rarity": "전설",
+      "section": "6.4.4",
+      "name": "치코",
+      "name_ko": "치코",
+      "name_ko_variants": [
+        "치코"
+      ],
+      "name_en": "Chicot",
+      "cost": null,
+      "effect": "보스 블라인드의 능력을 무력화합니다.",
+      "unlock": "영혼 카드로 무작위 획득",
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/Xl8ZgQdPXpC-T3TpxfPi7r7EON-IBFjsAGPjhOdJDGvNuSGpi6_kS2sDnEmbaR9XIbb-mrd3yZownUuUFyUQ4g.png",
+      "image_path": "assets/jokers/149-chicot.png",
+      "source_table_index": 155,
+      "fandom_type": "Effect"
+    },
+    {
+      "index": 150,
+      "id": "perkeo",
+      "rarity": "전설",
+      "section": "6.4.5",
+      "name": "페르케오",
+      "name_ko": "페르케오",
+      "name_ko_variants": [
+        "페르케오"
+      ],
+      "name_en": "Perkeo",
+      "cost": null,
+      "effect": "상점에서 떠날 때 소유한 1장의 무작위 소모품 카드의 네거티브를 생성합니다.",
+      "unlock": "영혼 카드로 무작위 획득",
+      "traits": [
+        "기타"
+      ],
+      "trait_text": "기타",
+      "trait_source": "fandom",
+      "image_url": "https://i.namu.wiki/i/LeMQtmauCTsxBqV9tLeJUP8UwM984ZQnsDZX36v7Nz0eONKWAc9XsVgrSDZrDcbYuJSyLh1JzUNkBymh2rBcBQ.png",
+      "image_path": "assets/jokers/150-perkeo.png",
+      "source_table_index": 156,
+      "fandom_type": "Effect"
+    }
+  ]
+}
